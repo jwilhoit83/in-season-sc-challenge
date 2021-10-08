@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: #D8E8E4;
+  background-color: #1A2C4C;
+}
+
+img {
+  max-width: clamp(2rem, 6vw, 5rem);
+  max-height: clamp(2rem, 6vw, 5rem);
+  object-fit: contain;
+}
+
+.dragging {
+  opacity: 0.5;
+}
+
+.container {
+  width: 90%;
+  margin-inline: auto;
+}
+
+.title {
+  text-transform: uppercase;
+  margin-top: 2rem;
+}
+
+.name {
+  width: 100%;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-block: 2rem 1rem;
+}
+
+.contestant-containers {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr;
+  gap: 1rem;
+}
+
+.droppable {
+  width: 100%;
+  min-height: 10rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #436689;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+}
