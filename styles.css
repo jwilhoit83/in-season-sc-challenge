@@ -33,6 +33,11 @@ img {
   margin-block: 0.5rem;
 }
 
+.team-score {
+  font-weight:700;
+  font-size: 1.5rem;
+}
+
 .contestant-containers {
   display: grid;
   grid-template-rows: repeat(4, 1fr);
@@ -40,16 +45,28 @@ img {
   gap: 1rem;
 }
 
-.droppable {
+.team-container {
   margin-inline: auto;
   width: min(100%, 60rem);
   border-radius: 0.5rem;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   flex-wrap: wrap;
   gap: 1rem;
   padding: 1rem;
   background-color: #436689;
   box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+.team-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 0.5rem;  
+}
+
+.champ {
+  outline: 0.25rem solid #1A2C4C;
+  outline-offset: 0.25rem;
 }
