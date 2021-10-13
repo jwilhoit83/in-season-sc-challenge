@@ -22,7 +22,7 @@ const teamPoints = [
   { 'ny-rangers': '0' },
   { ottawa: '0' },
   { philadelphia: '0' },
-  { pittsburgh: '0' },
+  { pittsburgh: '1' },
   { 'san-jose': '0' },
   { seattle: '0' },
   { 'st-louis': '0' },
@@ -33,7 +33,7 @@ const teamPoints = [
   { winnipeg: '0' },
 ]
 
-const currentChamp = 'tampa'
+const currentChamp = 'pittsburgh'
 
 const james = document.querySelector('.james')
 const jerod = document.querySelector('.jerod')
