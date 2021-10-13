@@ -5,6 +5,7 @@ body {
   text-align: center;
   color: #D8E8E4;
   background-color: #1A2C4C;
+  margin-block: 1rem;
 }
 
 img {
@@ -24,7 +25,6 @@ img {
 
 .title {
   text-transform: uppercase;
-  margin-top: 2rem;
 }
 
 .name {
@@ -48,10 +48,9 @@ img {
   margin-inline: auto;
   width: min(100%, 60rem);
   border-radius: 0.5rem;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
   gap: 1rem;
   padding: 1rem;
   background-color: #436689;
@@ -70,8 +69,12 @@ img {
   outline-offset: 0.25rem;
 }
 
-@media (min-width: 35rem) {
+@media (min-width: 48rem) {
   .team-score {
     font-size: 1.5rem;
+  }
+
+  .team-container {
+    grid-template-columns: repeat(8, 1fr);
   }
 }
