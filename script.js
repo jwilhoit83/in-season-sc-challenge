@@ -1,41 +1,3 @@
-// const logos = document.querySelectorAll('.logo')
-// const containers = document.querySelectorAll('.droppable')
-
-// document.addEventListener('drop', e => {
-//   e.preventDefault()
-// })
-
-// addDragListeners()
-
-// function addDragListeners() {
-//   logos.forEach(item => {
-//     item.addEventListener('dragstart', e => {
-//       item.classList.add('dragging')
-//     })
-
-//     item.addEventListener('dragend', e => {
-//       item.classList.remove('dragging')
-//     })
-//   })
-
-//   containers.forEach(container =>
-//     container.addEventListener('dragover', e => {
-//       e.preventDefault()
-//       const item = document.querySelector('.dragging')
-//       container.appendChild(item)
-//     })
-//   )
-// }
-
-// Anaheim	0	Columbus	0	Montreal	0	San Jose	0
-// Arizona	0	Dallas	0	Nashville	0	Seattle	0
-// Boston	0	Detroit	0	New Jersey	0	St. Louis	0
-// Buffalo	0	Edmonton	0	New York Islanders	0	Tampa Bay	0
-// Calgary	0	Florida	0	New York Rangers	0	Toronto	0
-// Carolina	0	Las Vegas	0	Ottawa	0	Vancouver	0
-// Chicago	0	Los Angeles	0	Philadelphia	0	Washington	0
-// Colorado	0	Minnesota	0	Pittsburgh	0	Winnipeg	0
-
 const teamPoints = [
   { anaheim: '0' },
   { arizona: '0' },
@@ -73,9 +35,35 @@ const teamPoints = [
 
 const currentChamp = 'tampa'
 
+const james = document.querySelector('.james')
+const jerod = document.querySelector('.jerod')
+const jeff = document.querySelector('.jeff')
+const billy = document.querySelector('.billy')
+
+const players = [james, jerod, jeff, billy]
+
+getPoints()
+
+// iterates through team points array and displays all team points accordingly
+
 teamPoints.forEach(team => {
   teamName = Object.keys(team)[0]
   document.getElementById(teamName).innerText = team[teamName]
 })
 
+// adds a border to the active cup champ
+
 document.getElementById(currentChamp).parentElement.classList.add('champ')
+
+// gets all team points for each player and displays the max value of each next to the player name
+
+function getPoints() {
+  players.forEach(player => {
+    const playerArray = []
+    player.querySelectorAll('.team-score').forEach(team => {
+      playerArray.push(Number(team.innerText))
+    })
+
+    player.querySelector('#high-points').innerText = Math.max(...playerArray)
+  })
+}

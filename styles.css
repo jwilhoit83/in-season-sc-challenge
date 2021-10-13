@@ -35,7 +35,6 @@ img {
 
 .team-score {
   font-weight:700;
-  font-size: 1.5rem;
 }
 
 .contestant-containers {
@@ -69,4 +68,10 @@ img {
 .champ {
   outline: 0.25rem solid #1A2C4C;
   outline-offset: 0.25rem;
+}
+
+@media (min-width: 35rem) {
+  .team-score {
+    font-size: 1.5rem;
+  }
 }
