@@ -42,7 +42,7 @@ const billy = document.querySelector('.billy')
 
 const players = [james, jerod, jeff, billy]
 
-getPoints()
+
 
 // iterates through team points array and displays all team points accordingly
 
@@ -57,13 +57,15 @@ document.getElementById(currentChamp).parentElement.classList.add('champ')
 
 // gets all team points for each player and displays the max value of each next to the player name
 
+getPoints()
+
 function getPoints() {
   players.forEach(player => {
     const playerArray = []
     player.querySelectorAll('.team-score').forEach(team => {
       playerArray.push(Number(team.innerText))
     })
-
+    console.log(playerArray);
     player.querySelector('#high-points').innerText = Math.max(...playerArray)
   })
 }
