@@ -65,7 +65,7 @@ function getPoints() {
     player.querySelectorAll('.team-score').forEach(team => {
       playerArray.push(Number(team.innerText))
     })
-    console.log(playerArray);
+
     player.querySelector('#high-points').innerText = Math.max(...playerArray)
   })
 }
