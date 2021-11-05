@@ -1,7 +1,7 @@
 const teamPoints = [
   { anaheim: '0' },
   { arizona: '0' },
-  { boston: '1' },
+  { boston: '2' },
   { buffalo: '0' },
   { calgary: '0' },
   { carolina: '0' },
