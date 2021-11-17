@@ -30,7 +30,7 @@ const teamPoints = [
   { toronto: '1' },
   { vancouver: '0' },
   { washington: '0' },
-  { winnipeg: '1' },
+  { winnipeg: '2' },
 ]
 
 const currentChamp = 'winnipeg'
