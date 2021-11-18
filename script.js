@@ -1,7 +1,7 @@
 const teamPoints = [
   { anaheim: '0' },
   { arizona: '0' },
-  { boston: '0' },
+  { boston: '2' },
   { buffalo: '0' },
   { calgary: '0' },
   { carolina: '0' },
@@ -11,9 +11,9 @@ const teamPoints = [
   { dallas: '0' },
   { detroit: '0' },
   { edmonton: '0' },
-  { florida: '0' },
+  { florida: '8' },
   { vegas: '0' },
-  { 'los-angeles': '0' },
+  { 'los-angeles': '3' },
   { minnesota: '0' },
   { montreal: '0' },
   { nashville: '0' },
@@ -27,13 +27,13 @@ const teamPoints = [
   { seattle: '0' },
   { 'st-louis': '0' },
   { tampa: '0' },
-  { toronto: '0' },
+  { toronto: '1' },
   { vancouver: '0' },
   { washington: '0' },
-  { winnipeg: '0' },
+  { winnipeg: '2' },
 ]
 
-const currentChamp = 'pittsburgh'
+const currentChamp = 'winnipeg'
 
 const james = document.querySelector('.james')
 const jerod = document.querySelector('.jerod')
@@ -65,7 +65,7 @@ function getPoints() {
     player.querySelectorAll('.team-score').forEach(team => {
       playerArray.push(Number(team.innerText))
     })
-    
+
     player.querySelector('#high-points').innerText = Math.max(...playerArray)
   })
 }
