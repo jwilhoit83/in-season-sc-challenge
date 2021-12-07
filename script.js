@@ -8,7 +8,7 @@ const teamPoints = [
   { chicago: '0' },
   { colorado: '0' },
   { columbus: '0' },
-  { dallas: '4' },
+  { dallas: '5' },
   { detroit: '0' },
   { edmonton: '2' },
   { florida: '8' },
