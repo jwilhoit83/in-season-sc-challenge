@@ -51,10 +51,10 @@ teamPoints.forEach(team => {
   document.getElementById(teamName).innerText = team[teamName]
 })
 
-// adds a border to the active cup champ
+// adds a border to the active cup champ and changes theme to team colors
 
 document.getElementById(currentChamp).parentElement.classList.add('champ')
-
+document.documentElement.classList.add(currentChamp)
 // gets all team points for each player and displays the max value of each next to the player name
 
 getPoints()
