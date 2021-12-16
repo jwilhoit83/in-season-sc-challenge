@@ -101,8 +101,8 @@
 }
 .philadelphia {
   --clr-alternate: hsl(0, 0%, 90%);
-  --clr-primary: hsl(0, 0%, 0%);
-  --clr-secondary: hsl(17, 98%, 49%);
+  --clr-primary: hsl(17, 98%, 49%);
+  --clr-secondary: hsl(0, 0%, 10%);
 }
 .pittsburgh {
   --clr-alternate: hsl(0, 0%, 90%);
