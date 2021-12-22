@@ -11,6 +11,8 @@ body {
   text-align: center;
   color: var(--clr-alternate, var(--clr-secondary));
   background-color: var(--clr-primary);
+  background-image: url(/hockey.svg);
+  background-size: 25%;
   margin-block: 1rem;
 }
 
@@ -30,16 +32,26 @@ img {
 }
 
 .title {
+  display: inline-block;
   text-transform: uppercase;
   font-size: 1.5rem;
   line-height: 1;
   margin-bottom: 1rem;
+  background-color: var(--clr-primary);
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  opacity: 0.75;  
 }
 
 .name {
+  display:inline-block;
+  background-color: var(--clr-primary);
   text-transform: uppercase;
   font-weight: 700;
   margin-block: 0.5rem;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  opacity: 0.75;
 }
 
 .team-score {

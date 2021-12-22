@@ -1,149 +1,149 @@
 .anaheim {
   --clr-alternate: hsl(16, 82%, 50%);
   --clr-primary: hsl(10, 9%, 13%);
-  --clr-secondary: hsl(37, 30%, 42%);
+  --clr-secondary: #8b734b;
 }
 .arizona {
   --clr-alternate: hsl(16, 71%, 39%);
   --clr-primary: hsl(157, 54%, 18%);
-  --clr-secondary: hsl(41, 45%, 75%);
+  --clr-secondary: #dccaa3;
 }
 .boston {
   --clr-primary: hsl(0, 0%, 15%);
-  --clr-secondary: hsl(42, 97%, 53%);
+  --clr-secondary: #fbb613;
 }
 .calgary {
   --clr-primary: hsl(353, 85%, 44%);
-  --clr-secondary: hsl(33, 82%, 61%);
+  --clr-secondary: #eda44a;
 }
 .carolina {
   --clr-primary: hsl(0, 0%, 7%);
-  --clr-secondary: hsl(353, 86%, 43%);
+  --clr-secondary: #cc0f25;
 }
 .chicago {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(0, 0%, 0%);
-  --clr-secondary: hsl(350, 95%, 44%);
+  --clr-secondary: #db0629;
 }
 .colorado {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(341, 49%, 29%);
-  --clr-secondary: hsl(207, 61%, 35%);
+  --clr-secondary: #235f90;
 }
 .columbus {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(223, 100%, 14%);
-  --clr-secondary: hsl(353, 85%, 44%);
+  --clr-secondary: #d01127;
 }
 .dallas {
   --clr-alternate: hsl(144, 13%, 8%);
   --clr-primary: hsl(161, 100%, 22%);
-  --clr-secondary: hsl(60, 7%, 85%);
+  --clr-secondary: #dbdbd6;
 }
 .detroit {
   --clr-primary: hsl(0, 0%, 90%);
-  --clr-secondary: hsl(353, 85%, 44%);
+  --clr-secondary: #d01127;
 }
 .edmonton {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(223, 93%, 11%);
-  --clr-secondary: hsl(18, 100%, 50%);
+  --clr-secondary: #ff4d00;
 }
 .florida {
   --clr-alternate: hsl(350, 84%, 43%);
   --clr-primary: hsl(214, 91%, 14%);
-  --clr-secondary: hsl(39, 41%, 54%);
+  --clr-secondary: #ba985a;
 }
 .vegas {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(192, 13%, 23%);
-  --clr-secondary: hsl(41, 38%, 53%);
+  --clr-secondary: #b5985a;
 }
 .los-angeles {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(0, 0%, 7%);
-  --clr-secondary: hsl(84, 3%, 64%);
+  --clr-secondary: #a4a6a0;
 }
 .minnesota {
   --clr-alternate: hsl(42, 100%, 49%);
   --clr-primary: hsl(159, 97%, 14%);
-  --clr-secondary: hsl(358, 71%, 40%);
+  --clr-secondary: #ae1e22;
 }
 .montreal {
   --clr-alternate: hsl(233, 76%, 21%);
   --clr-primary: hsl(0, 0%, 90%);
-  --clr-secondary: hsl(354, 71%, 40%);
+  --clr-secondary: #ae1e2c;
 }
 .nashville {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(214, 100%, 13%);
-  --clr-secondary: hsl(41, 100%, 55%);
+  --clr-secondary: #ffb61a;
 }
 .new-jersey {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(60, 100%, 0%);
-  --clr-secondary: hsl(353, 85%, 44%);
+  --clr-secondary: #d01127;
 }
 .ny-islanders {
   --clr-alternate: hsl(24, 90%, 57%);
   --clr-primary: hsl(208, 100%, 30%);
-  --clr-secondary: hsl(0, 0%, 90%);
+  --clr-secondary: #e6e6e6;
 }
 .ny-rangers {
   --clr-alternate: hsl(344, 84%, 45%);
   --clr-primary: hsl(203, 100%, 33%);
-  --clr-secondary: hsl(0, 0%, 90%);
+  --clr-secondary: #e6e6e6;
 }
 .ottawa {
   --clr-alternate: hsl(0, 0%, 0%);
   --clr-primary: hsl(354, 85%, 43%);
-  --clr-secondary: hsl(44, 88%, 40%);
+  --clr-secondary: #c0900c;
 }
 .philadelphia {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(17, 98%, 49%);
-  --clr-secondary: hsl(0, 0%, 10%);
+  --clr-secondary: #1a1a1a;
 }
 .pittsburgh {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(0, 0%, 0%);
-  --clr-secondary: hsl(42, 97%, 53%);
+  --clr-secondary: #fbb613;
 }
 .san-jose {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(0, 0%, 0%);
-  --clr-secondary: hsl(184, 100%, 23%);
+  --clr-secondary: #006d75;
 }
 .seattle {
   --clr-alternate: hsl(208, 95%, 8%);
   --clr-primary: hsl(197, 35%, 54%);
-  --clr-secondary: hsl(180, 46%, 71%);
+  --clr-secondary: #93d7d7;
 }
 .st-louis {
   --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(219, 100%, 26%);
-  --clr-secondary: hsl(42, 79%, 47%);
+  --clr-secondary: #d79e19;
 }
 .tampa {
   --clr-primary: hsl(217, 100%, 20%);
-  --clr-secondary: hsl(0, 0%, 90%);
+  --clr-secondary: #e6e6e6;
 }
 .toronto {
   --clr-primary: hsl(219, 100%, 18%);
-  --clr-secondary: hsl(0, 0%, 90%);
+  --clr-secondary: #e6e6e6;
 }
 .vancouver {
   --clr-alternate: hsl(216, 30%, 79%);
   --clr-primary: hsl(211, 100%, 17%);
-  --clr-secondary: hsl(212, 100%, 25%);
+  --clr-secondary: #003c80;
 }
 .washington {
   --clr-alternate: hsl(350, 91%, 45%);
   --clr-primary: hsl(215, 75%, 16%);
-  --clr-secondary: hsl(0, 0%, 90%);
+  --clr-secondary: #e6e6e6;
 }
 .winnipeg {
   --clr-alternate: hsl(352, 83%, 39%);
   --clr-primary: hsl(214, 91%, 13%);
-  --clr-secondary: hsl(180, 1%, 56%);
+  --clr-secondary: #8e9090;
 }

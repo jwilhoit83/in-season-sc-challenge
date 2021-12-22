@@ -42,8 +42,6 @@ const billy = document.querySelector('.billy')
 
 const players = [james, jerod, jeff, billy]
 
-
-
 // iterates through team points array and displays all team points accordingly
 
 teamPoints.forEach(team => {
