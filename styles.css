@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 html {
-  --clr-alternate: hsl(208, 95%, 8%);
   --clr-primary: hsl(197, 35%, 54%);
   --clr-secondary: hsl(180, 46%, 71%);
 }
@@ -44,13 +43,9 @@ img {
 
 .name {
   display:inline-block;
-  background-color: var(--clr-primary);
   text-transform: uppercase;
   font-weight: 700;
   margin-block: 0.5rem;
-  padding: 0.25rem;
-  border-radius: 0.25rem;
-  opacity: 0.75;
 }
 
 .team-score {
