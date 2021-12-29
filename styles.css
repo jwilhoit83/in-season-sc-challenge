@@ -35,10 +35,6 @@ img {
   font-size: 1.5rem;
   line-height: 1;
   margin-bottom: 1rem;
-  background-color: var(--clr-primary);
-  padding: 0.25rem;
-  border-radius: 0.25rem;
-  opacity: 0.75;  
 }
 
 .name {
