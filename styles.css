@@ -23,7 +23,7 @@ img {
 }
 
 .container {
-  width: 90%;
+  max-width: 90%;
   margin-inline: auto;
 }
 
@@ -114,9 +114,13 @@ img {
 }
 
 @media (min-width: 48rem) {
+  .container {
+    max-width: 80%;
+  }
 
   .header {
     flex-direction: row;
+    margin-block: 2rem;
   }
 
   .team-score {
