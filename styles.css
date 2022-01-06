@@ -57,6 +57,12 @@ img {
   align-items: center;
   gap: 0.5rem;
   font-size: 0.75rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: var(--clr-primary);
+  background-color: var(--clr-alternate, var(--clr-secondary));
+  outline: 0.125rem solid var(--clr-primary);
+  outline-offset: -0.25rem;
 }
 
 .matchup-teams {
@@ -90,6 +96,9 @@ img {
   color: var(--clr-primary);
   background-color: var(--clr-secondary);
   box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+  /* outline: 0.125rem solid var(--clr-alternate, var(--clr-primary)); */
+  outline: 0.125rem solid var(--clr-primary);
+  outline-offset: -0.25rem;
 }
 
 .team-wrapper {
@@ -100,7 +109,7 @@ img {
 }
 
 .champ {
-  outline: 0.25rem solid var(--clr-primary);
+  outline: 0.125rem solid var(--clr-primary);
   outline-offset: 0.25rem;
 }
 

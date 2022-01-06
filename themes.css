@@ -9,14 +9,17 @@
   --clr-secondary: #dccaa3;
 }
 .boston {
+  --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(0, 0%, 15%);
   --clr-secondary: #fbb613;
 }
 .calgary {
+  --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(353, 85%, 44%);
   --clr-secondary: #eda44a;
 }
 .carolina {
+  --clr-alternate: hsl(0, 0%, 90%);
   --clr-primary: hsl(0, 0%, 7%);
   --clr-secondary: #cc0f25;
 }
@@ -41,6 +44,7 @@
   --clr-secondary: #dbdbd6;
 }
 .detroit {
+  --clr-alternate: hsl(0, 0%, 7%);
   --clr-primary: hsl(0, 0%, 90%);
   --clr-secondary: #d01127;
 }
@@ -50,9 +54,9 @@
   --clr-secondary: #ff4d00;
 }
 .florida {
-  --clr-alternate: hsl(350, 84%, 43%);
-  --clr-primary: hsl(214, 91%, 14%);
-  --clr-secondary: #ba985a;
+  --clr-alternate: hsl(350, 85%, 37%);
+  --clr-primary: hsl(215, 89%, 14%);
+  --clr-secondary: #be965b;
 }
 .vegas {
   --clr-alternate: hsl(0, 0%, 90%);

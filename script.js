@@ -57,7 +57,7 @@ fetch(
 )
   .then(res => res.json())
   .then(res => {
-    console.log(res)
+    // console.log(res)
     const game = res.dates[0].games[0]
 
     // formatting the home and away team names correctly
