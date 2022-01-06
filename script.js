@@ -57,23 +57,25 @@ fetch(
 )
   .then(res => res.json())
   .then(res => {
-
-    // formatting the date of next game correctly
-    let gameDate = res.dates[0].date
-    gameDate = gameDate.split('-')
-    let gameTime = new Date()
-    gameTime.setFullYear(gameDate[0])
-    gameTime.setDate(gameDate[2])
-    gameTime.setMonth(gameDate[1] - 1)
+    console.log(res)
+    const game = res.dates[0].games[0]
 
     // formatting the home and away team names correctly
-    let homeTeam = res.dates[0].games[0].teams.home.team.name
-    let awayTeam = res.dates[0].games[0].teams.away.team.name
+    let homeTeam = game.teams.home.team.name
+    let awayTeam = game.teams.away.team.name
     homeTeam = homeTeam.split(' ')[homeTeam.split(' ').length - 1].toLowerCase()
     awayTeam = awayTeam.split(' ')[awayTeam.split(' ').length - 1].toLowerCase()
 
     // adding date and team logos for the next game
-    document.getElementById('date').innerText = gameTime.toDateString()
+    document.getElementById('date').innerText = new Date(game.gameDate).toLocaleString('en-US', {
+      weekday: 'long',
+      month: 'short',
+      day: 'numeric',
+    })
+    document.getElementById('time').innerText = new Date(game.gameDate).toLocaleString('en-US', {
+      hour: 'numeric',
+      minute: 'numeric',
+    })
     document.getElementById('home').setAttribute('src', `logos/${homeTeam}.png`)
     document.getElementById('away').setAttribute('src', `logos/${awayTeam}.png`)
   })

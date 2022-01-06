@@ -7,6 +7,8 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
   text-align: center;
   color: var(--clr-alternate, var(--clr-secondary));
   background-color: var(--clr-primary);
@@ -24,28 +26,34 @@ img {
   margin-inline: auto;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-inline: 1rem;
+  margin-block: 1rem;
+}
+
+.header img {
+    max-width: clamp(1rem, 6vw, 4rem);
+    max-height: clamp(1rem, 6vw, 4rem);
+}
+
 .title {
   display: inline-block;
-  text-transform: uppercase;
   font-size: 1.5rem;
   line-height: 1;
-  margin-bottom: 1rem;
 }
 
 .matchup {
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
-  margin-inline: auto;
-  margin-block: 1rem;
-  font-weight: 700;
-  border-radius: 0.5rem;
-  color: var(--clr-primary);
-  background-color: var(--clr-secondary);
-  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
-  padding: 1.5rem;
+  gap: 0.5rem;
+  font-size: 0.75rem;
 }
 
 .matchup-teams {
@@ -57,13 +65,7 @@ img {
 
 .name {
   display:inline-block;
-  text-transform: uppercase;
-  font-weight: 700;
   margin-block: 0.5rem;
-}
-
-.team-score {
-  font-weight:700;
 }
 
 .contestant-containers {
@@ -100,12 +102,13 @@ img {
 }
 
 @media (min-width: 48rem) {
-  .matchup {
-    font-size: 1.5rem;
+
+  .header {
+    flex-direction: row;
   }
 
   .team-score {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 
   .team-container {
