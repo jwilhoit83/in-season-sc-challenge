@@ -8,13 +8,21 @@
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="themes.css">
   <link rel="stylesheet" href="styles.css">
-  <script src="script.js" defer></script>
-  <title>In Season Stanley Cup Challenge</title>
+
+  <title>RSSC Challenge</title>
 </head>
 
 <body>
   <h1 class='title'>Regular Season Stanley Cup Challenge</h1>
   <div class="container">
+    <div class="matchup">
+      <p id="date"></p>
+      <div class="matchup-teams">
+        <img src="" alt="home team" id="home">
+        <p>VS</p>
+        <img src="" alt="away team" id="away">
+      </div>
+    </div>
     <div class="contestant-containers">
       <div class='james'>
         <p class='name'>James - <span id='high-points'></span></p>
@@ -131,7 +139,7 @@
         <p class='name'>Billy - <span id='high-points'></span></p>
         <div class='team-container'>
           <div class="team-wrapper">
-            <img draggable='true' class='logo' src="logos/bluejackets.png" alt="">
+            <img draggable='true' class='logo' src="logos/jackets.png" alt="">
             <p id='columbus' class="team-score"></p>
           </div>
           <div class="team-wrapper">
@@ -139,7 +147,7 @@
             <p id='calgary' class="team-score"></p>
           </div>
           <div class="team-wrapper">
-            <img draggable='true' class='logo' src="logos/goldenknights.png" alt="">
+            <img draggable='true' class='logo' src="logos/knights.png" alt="">
             <p id='vegas' class="team-score"></p>
           </div>
           <div class="team-wrapper">
@@ -151,7 +159,7 @@
             <p id='seattle' class="team-score"></p>
           </div>
           <div class="team-wrapper">
-            <img draggable='true' class='logo' src="logos/mapleleafs.png" alt="">
+            <img draggable='true' class='logo' src="logos/leafs.png" alt="">
             <p id='toronto' class="team-score"></p>
           </div>
           <div class="team-wrapper">
@@ -159,7 +167,7 @@
             <p id='edmonton' class="team-score"></p>
           </div>
           <div class="team-wrapper">
-            <img draggable='true' class='logo' src="logos/redwings.png" alt="">
+            <img draggable='true' class='logo' src="logos/wings.png" alt="">
             <p id='detroit' class="team-score"></p>
           </div>
         </div>
@@ -168,5 +176,6 @@
   </div>
 
 </body>
+<script src="script.js" type="module"></script>
 
 </html>

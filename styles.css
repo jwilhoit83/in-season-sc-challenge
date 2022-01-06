@@ -10,7 +10,6 @@ body {
   text-align: center;
   color: var(--clr-alternate, var(--clr-secondary));
   background-color: var(--clr-primary);
-  background-size: 25%;
   margin-block: 1rem;
 }
 
@@ -18,10 +17,6 @@ img {
   max-width: clamp(2rem, 8vw, 5rem);
   max-height: clamp(2rem, 8vw, 5rem);
   object-fit: contain;
-}
-
-.dragging {
-  opacity: 0.5;
 }
 
 .container {
@@ -35,6 +30,29 @@ img {
   font-size: 1.5rem;
   line-height: 1;
   margin-bottom: 1rem;
+}
+
+.matchup {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-inline: auto;
+  margin-block: 1rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  color: var(--clr-primary);
+  background-color: var(--clr-secondary);
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+  padding: 1.5rem;
+}
+
+.matchup-teams {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
 }
 
 .name {
@@ -82,6 +100,10 @@ img {
 }
 
 @media (min-width: 48rem) {
+  .matchup {
+    font-size: 1.5rem;
+  }
+
   .team-score {
     font-size: 1.5rem;
   }
