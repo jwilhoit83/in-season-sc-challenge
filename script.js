@@ -36,7 +36,7 @@ const teamIds = {
 
 const currentChamp = 'ny-rangers'
 
-let days = 10
+let days = 20
 let dateCurrent = new Date()
 let dateTemp = new Date().setDate(new Date().getDate() + days)
 let dateFuture = new Date(dateTemp)
