@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 }
 
-const currentChamp = 'ny-rangers'
+const currentChamp = 'detroit'
 
 let days = 20
 let dateCurrent = new Date()
@@ -91,7 +91,7 @@ const teamPoints = [
   { colorado: '0' },
   { columbus: '2' },
   { dallas: '7' },
-  { detroit: '0' },
+  { detroit: '1' },
   { edmonton: '2' },
   { florida: '12' },
   { vegas: '1' },
