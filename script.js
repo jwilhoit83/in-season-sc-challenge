@@ -57,7 +57,6 @@ fetch(
 )
   .then(res => res.json())
   .then(res => {
-    // console.log(res)
     const game = res.dates[0].games[0]
 
     // formatting the home and away team names correctly
@@ -83,7 +82,7 @@ fetch(
 const teamPoints = [
   { anaheim: '0' },
   { arizona: '0' },
-  { boston: '2' },
+  { boston: '3' },
   { buffalo: '0' },
   { calgary: '0' },
   { carolina: '1' },

@@ -1,0 +1,16 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "[Nord - Zam]": {
+      "editorBracketHighlight.foreground1": "#5E81AC",
+      "editorBracketHighlight.foreground2": "#BE7179",
+      "editorBracketHighlight.foreground3": "#a3be8c",
+      "editorBracketHighlight.foreground4": "#d08770",
+      "editorBracketHighlight.foreground5": "#45A9F9",
+      "editorBracketHighlight.foreground6": "#FFB86C",
+      "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D"
+    }
+},
+"editor.fontFamily": "'Fira Code', monospace",
+"editor.fontLigatures": true
+}
