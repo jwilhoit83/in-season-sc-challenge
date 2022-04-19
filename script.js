@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 }
 
-const currentChamp = 'colorado'
+const currentChamp = 'washington'
 
 let days = 20
 let dateCurrent = new Date()
