@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 }
 
-const currentChamp = 'anaheim'
+const currentChamp = 'colorado'
 
 let days = 20
 let dateCurrent = new Date()
@@ -80,38 +80,38 @@ fetch(
   })
 
 const teamPoints = [
-  { anaheim: '1' },
-  { arizona: '4' },
-  { boston: '4' },
+  { anaheim: '0' },
+  { arizona: '0' },
+  { boston: '0' },
   { buffalo: '0' },
   { calgary: '0' },
-  { carolina: '1' },
+  { carolina: '0' },
   { chicago: '0' },
-  { colorado: '11' },
-  { columbus: '2' },
-  { dallas: '7' },
-  { detroit: '1' },
-  { edmonton: '2' },
-  { florida: '12' },
-  { vegas: '2' },
-  { 'los-angeles': '4' },
-  { minnesota: '6' },
-  { montreal: '1' },
+  { colorado: '0' },
+  { columbus: '0' },
+  { dallas: '0' },
+  { detroit: '0' },
+  { edmonton: '0' },
+  { florida: '0' },
+  { vegas: '0' },
+  { 'los-angeles': '0' },
+  { minnesota: '0' },
+  { montreal: '0' },
   { nashville: '0' },
-  { 'new-jersey': '1' },
+  { 'new-jersey': '0' },
   { 'ny-islanders': '0' },
-  { 'ny-rangers': '4' },
+  { 'ny-rangers': '0' },
   { ottawa: '0' },
-  { philadelphia: '2' },
-  { pittsburgh: '2' },
-  { 'san-jose': '1' },
+  { philadelphia: '0' },
+  { pittsburgh: '0' },
+  { 'san-jose': '0' },
   { seattle: '0' },
-  { 'st-louis': '2' },
-  { tampa: '1' },
-  { toronto: '2' },
+  { 'st-louis': '0' },
+  { tampa: '0' },
+  { toronto: '0' },
   { vancouver: '0' },
-  { washington: '1' },
-  { winnipeg: '2' },
+  { washington: '0' },
+  { winnipeg: '0' },
 ]
 
 const james = document.querySelector('.james')
