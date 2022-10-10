@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
-html {
+html {  
   --clr-primary: hsl(222, 19%, 27%);
   --clr-secondary: hsl(222, 15%, 87%);
+  --clr-alternate: hsl(37, 100%, 64%);
 }
 
 body {
@@ -20,6 +21,14 @@ img {
   max-width: clamp(2rem, 8vw, 5rem);
   max-height: clamp(2rem, 8vw, 5rem);
   object-fit: contain;
+}
+
+.draft-link {
+  text-decoration: none;
+  font-size: 2rem;
+  margin-block: 3rem;
+  color: var(--clr-alternate);
+  border-bottom: 2px solid var(--clr-alternate);
 }
 
 .container {
