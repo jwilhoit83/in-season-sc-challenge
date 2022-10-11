@@ -48,7 +48,9 @@ img {
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
+  width: min(100%, 70rem);
   margin-block: 1rem;
+  margin-inline: auto;
 }
 
 .header img {
