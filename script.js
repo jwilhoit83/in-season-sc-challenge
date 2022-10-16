@@ -100,7 +100,7 @@ const teamPoints = [
   { arizona: "0" },
   { boston: "0" },
   { buffalo: "0" },
-  { calgary: "1" },
+  { calgary: "2" },
   { carolina: "0" },
   { chicago: "0" },
   { colorado: "1" },
