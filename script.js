@@ -166,6 +166,6 @@ function getPoints() {
       playerArray.push(Number(team.innerText));
     });
 
-    player.querySelector("#high-points").innerText = `High Team - ${Math.max(...playerArray)} Total - ${playerTotal}`;
+    player.querySelector("#high-points").innerText = `High ${Math.max(...playerArray)}/Total ${playerTotal}`;
   });
 }
