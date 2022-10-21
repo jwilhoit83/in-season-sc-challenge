@@ -159,7 +159,7 @@ getPoints();
 
 function getPoints() {
   players.forEach((player) => {
-    const playerTotal = 0;
+    let playerTotal = 0;
     const playerArray = [];
     player.querySelectorAll(".team-score").forEach((team) => {
       playerTotal += Number(team.innerText);
