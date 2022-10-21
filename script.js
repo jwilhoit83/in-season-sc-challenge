@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 };
 
-const currentChamp = "calgary";
+const currentChamp = "buffalo";
 
 let days = 20;
 let dateCurrent = new Date();
@@ -99,7 +99,7 @@ const teamPoints = [
   { anaheim: "0" },
   { arizona: "0" },
   { boston: "0" },
-  { buffalo: "0" },
+  { buffalo: "1" },
   { calgary: "3" },
   { carolina: "0" },
   { chicago: "0" },
@@ -159,11 +159,13 @@ getPoints();
 
 function getPoints() {
   players.forEach((player) => {
+    const playerTotal = 0;
     const playerArray = [];
     player.querySelectorAll(".team-score").forEach((team) => {
+      playerTotal += Number(team.innerText);
       playerArray.push(Number(team.innerText));
     });
 
-    player.querySelector("#high-points").innerText = Math.max(...playerArray);
+    player.querySelector("#high-points").innerText = `High Team - ${Math.max(...playerArray)} Total - ${playerTotal}`;
   });
 }
