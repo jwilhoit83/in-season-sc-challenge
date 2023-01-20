@@ -98,7 +98,7 @@ fetch(
 const teamPoints = [
   { anaheim: "0" },
   { arizona: "1" },
-  { boston: "1" },
+  { boston: "3" },
   { buffalo: "3" },
   { calgary: "3" },
   { carolina: "0" },
