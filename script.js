@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 };
 
-const currentChamp = "minnesota";
+const currentChamp = "toronto";
 
 let days = 20;
 let dateCurrent = new Date();
@@ -124,7 +124,7 @@ const teamPoints = [
   { seattle: "1" },
   { "st-louis": "0" },
   { tampa: "10" },
-  { toronto: "8" },
+  { toronto: "9" },
   { vancouver: "2" },
   { washington: "0" },
   { winnipeg: "0" },
