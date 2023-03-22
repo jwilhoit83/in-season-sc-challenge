@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 };
 
-const currentChamp = "arizona";
+const currentChamp = "winnipeg";
 
 let days = 20;
 let dateCurrent = new Date();
@@ -127,7 +127,7 @@ const teamPoints = [
   { toronto: "10" },
   { vancouver: "2" },
   { washington: "0" },
-  { winnipeg: "1" },
+  { winnipeg: "2" },
 ];
 
 const james = document.querySelector(".james");
