@@ -34,7 +34,7 @@ const teamIds = {
   winnipeg: 52,
 };
 
-const currentChamp = "los-angeles";
+const currentChamp = "vegas";
 
 let days = 20;
 let dateCurrent = new Date();
@@ -97,37 +97,37 @@ fetch(
 
 const teamPoints = [
   { anaheim: "0" },
-  { arizona: "3" },
-  { boston: "5" },
-  { buffalo: "3" },
-  { calgary: "6" },
+  { arizona: "0" },
+  { boston: "0" },
+  { buffalo: "0" },
+  { calgary: "0" },
   { carolina: "0" },
-  { chicago: "2" },
-  { colorado: "3" },
+  { chicago: "0" },
+  { colorado: "0" },
   { columbus: "0" },
   { dallas: "0" },
-  { detroit: "1" },
-  { edmonton: "2" },
-  { florida: "3" },
+  { detroit: "0" },
+  { edmonton: "0" },
+  { florida: "0" },
   { vegas: "0" },
-  { "los-angeles": "5" },
-  { minnesota: "3" },
+  { "los-angeles": "0" },
+  { minnesota: "0" },
   { montreal: "0" },
-  { nashville: "2" },
-  { "new-jersey": "10" },
+  { nashville: "0" },
+  { "new-jersey": "0" },
   { "ny-islanders": "0" },
   { "ny-rangers": "0" },
   { ottawa: "0" },
-  { philadelphia: "3" },
+  { philadelphia: "0" },
   { pittsburgh: "0" },
-  { "san-jose": "1" },
-  { seattle: "1" },
+  { "san-jose": "0" },
+  { seattle: "0" },
   { "st-louis": "0" },
-  { tampa: "10" },
-  { toronto: "10" },
-  { vancouver: "4" },
+  { tampa: "0" },
+  { toronto: "0" },
+  { vancouver: "0" },
   { washington: "0" },
-  { winnipeg: "3" },
+  { winnipeg: "0" },
 ];
 
 const james = document.querySelector(".james");
