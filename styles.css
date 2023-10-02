@@ -2,16 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
 
 html {
-
-  /* --clr-primary: hsl(224, 14%, 22%);
-  --clr-secondary: hsl(12, 100%, 97%);
-  --clr-alternate: hsl(11, 94%, 68%); */
   
-  --clr-primary: hsl(219, 10%, 41%);
-  --clr-secondary: hsl(214, 17%, 71%);
-  --clr-alternate: hsl(46, 83%, 76%);
+  --clr-primary: hsl(199, 84%, 20%);
+  --clr-secondary: hsl(198, 21%, 56%);
+  --clr-alternate: hsl(43, 74%, 66%);
   
-  --br: 0.25rem;
+  --br: 0.125rem;
 }
 
 body {
