@@ -3,11 +3,11 @@
 
 html {
   
-  --clr-primary: #08435e;
-  --clr-secondary: #7798a6;
-  --clr-alternate: #e8c468;
+  --clr-primary: #13293D;
+  --clr-secondary: #7C7C7C;
+  --clr-alternate: rgb(255, 186, 8);
   
-  --br: 0.125rem;
+  --br: 0.25rem;
 }
 
 body {
