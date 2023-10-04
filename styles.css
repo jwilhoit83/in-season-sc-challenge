@@ -3,9 +3,9 @@
 
 html {
   
-  --clr-primary: hsl(199, 84%, 20%);
-  --clr-secondary: hsl(198, 21%, 56%);
-  --clr-alternate: hsl(43, 74%, 66%);
+  --clr-primary: #08435e;
+  --clr-secondary: #7798a6;
+  --clr-alternate: #e8c468;
   
   --br: 0.125rem;
 }
