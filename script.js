@@ -172,7 +172,7 @@ function getPoints() {
 
 // Rules Modal functionality
 
-let rulesModal = document.getElementById('rules_modal');
+let rulesModal = document.getElementById('rules-modal');
 let modalOpen = document.getElementById('modal-open');
 let modalClose = document.getElementById('modal-close');
 

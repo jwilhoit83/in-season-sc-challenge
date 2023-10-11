@@ -173,17 +173,20 @@ img {
 
 /* Modal styling */
 
-.modal_button {
+.modal-button {
   margin-top: 2rem;
   border: none;
+  border-radius: var(--br);
   text-transform: uppercase;
   color: var(--clr-alternate);
   background-color: transparent;
   cursor: pointer;
   text-align: center;
+  outline: 2px solid var(--clr-alternate);
 }
 
-.rules_modal {
+.rules-modal {
+  position: relative;
   padding: 1.5rem;
   border: none;
   border-radius: var(--br);
@@ -193,7 +196,27 @@ img {
   text-align: left;
 }
 
-.rules_modal > h3 {
+.rules-modal > h3 {
+  margin-bottom: 1rem;
   color: var(--clr-alternate);
   text-align: center;
+}
+
+.rules-modal > ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.bullet {
+  padding-inline: 0.5rem;
+  font-weight: 700;
+  color: var(--clr-alternate);
+}
+
+#modal-close {
+  margin: 0;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
 }
