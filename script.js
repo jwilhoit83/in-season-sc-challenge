@@ -169,3 +169,17 @@ function getPoints() {
     player.querySelector("#high-points").innerText = `High ${Math.max(...playerArray)} / Total ${playerTotal}`;
   });
 }
+
+// Rules Modal functionality
+
+let rulesModal = document.getElementById('rules-modal');
+let modalOpen = document.getElementById('modal-open');
+let modalClose = document.getElementById('modal-close');
+
+modalOpen.addEventListener('click', () => {
+  rulesModal.showModal();
+})
+
+modalClose.addEventListener('click', () => {
+  rulesModal.close();
+})

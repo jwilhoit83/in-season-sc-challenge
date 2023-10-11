@@ -5,6 +5,7 @@
 html {
   
   --clr-primary: #13293D;
+  --clr-backdrop: rgba(19, 41, 61, 0.5);
   --clr-secondary: #7C7C7C;
   --clr-alternate: rgb(255, 186, 8);
   
@@ -169,7 +170,56 @@ img {
   background-color: var(--clr-secondary);
   box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
 }
-/* 
-.logo {
+
+/* Modal styling */
+
+.modal-button {
+  margin-top: 2rem;
+  border: none;
+  border-radius: var(--br);
+  text-transform: uppercase;
+  color: var(--clr-alternate);
+  background-color: transparent;
   cursor: pointer;
-} */
+  text-align: center;
+  outline: 2px solid var(--clr-alternate);
+}
+
+.rules-modal {
+  padding: 1.5rem;
+  border: none;
+  border-radius: var(--br);
+  color: var(--clr-secondary);
+  background: var(--clr-primary);
+  outline: 2px solid var(--clr-alternate);
+  text-align: left;
+}
+
+.rules-modal > h3 {
+  margin-bottom: 1rem;
+  color: var(--clr-alternate);
+  text-align: center;
+}
+
+.rules-modal > ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.bullet {
+  padding-inline: 0.5rem;
+  font-weight: 700;
+  color: var(--clr-alternate);
+}
+
+#modal-close {
+  margin: 0;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+dialog::backdrop {
+  background-color: rgba(19, 41, 61, 0.7);
+}
