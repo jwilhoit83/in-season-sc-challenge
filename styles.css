@@ -186,7 +186,6 @@ img {
 }
 
 .rules-modal {
-  position: relative;
   padding: 1.5rem;
   border: none;
   border-radius: var(--br);
@@ -219,4 +218,8 @@ img {
   position: absolute;
   top: 1rem;
   right: 1rem;
+}
+
+dialog::backdrop {
+  background-color: rgba(19, 41, 61, 0.7);
 }
