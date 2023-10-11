@@ -5,6 +5,7 @@
 html {
   
   --clr-primary: #13293D;
+  --clr-backdrop: rgba(19, 41, 61, 0.5);
   --clr-secondary: #7C7C7C;
   --clr-alternate: rgb(255, 186, 8);
   
@@ -169,7 +170,30 @@ img {
   background-color: var(--clr-secondary);
   box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
 }
-/* 
-.logo {
+
+/* Modal styling */
+
+.modal_button {
+  margin-top: 2rem;
+  border: none;
+  text-transform: uppercase;
+  color: var(--clr-alternate);
+  background-color: transparent;
   cursor: pointer;
-} */
+  text-align: center;
+}
+
+.rules_modal {
+  padding: 1.5rem;
+  border: none;
+  border-radius: var(--br);
+  color: var(--clr-secondary);
+  background: var(--clr-primary);
+  outline: 2px solid var(--clr-alternate);
+  text-align: left;
+}
+
+.rules_modal > h3 {
+  color: var(--clr-alternate);
+  text-align: center;
+}
