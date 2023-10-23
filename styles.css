@@ -119,7 +119,7 @@ img {
 }
 
 .champ {
-  outline: 0.125rem solid var(--clr-primary);
+  outline: 0.125rem solid var(--clr-alternate);
   outline-offset: 0.25rem;
 }
 
