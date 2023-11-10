@@ -1,49 +1,8 @@
-// object for the team IDs on the NHL API
-const teamIds = {
-  anaheim: 24,
-  arizona: 53,
-  boston: 6,
-  buffalo: 7,
-  calgary: 20,
-  carolina: 12,
-  chicago: 16,
-  colorado: 21,
-  columbus: 29,
-  dallas: 25,
-  detroit: 17,
-  edmonton: 22,
-  florida: 13,
-  vegas: 54,
-  "los-angeles": 26,
-  minnesota: 30,
-  montreal: 8,
-  nashville: 18,
-  "new-jersey": 1,
-  "ny-islanders": 2,
-  "ny-rangers": 3,
-  ottawa: 9,
-  philadelphia: 4,
-  pittsburgh: 5,
-  "san-jose": 28,
-  seattle: 55,
-  "st-louis": 19,
-  tampa: 14,
-  toronto: 10,
-  vancouver: 23,
-  washington: 15,
-  winnipeg: 52,
-};
-
 const currentChamp = "pittsburgh";
 
 let nextHome = ''
 let nextVisitor = ''
 let nextDate
-
-let days = 20;
-let dateCurrent = new Date();
-let dateTemp = new Date().setDate(new Date().getDate() + days);
-let dateFuture = new Date(dateTemp);
 
 function formatDate(date) {
   const year = date.getFullYear();
@@ -57,46 +16,61 @@ function formatDate(date) {
   ].join("-");
 }
 
-// grabbing the upcoming schedule for the current cup holder and adding date and logos to the DOM
-// fetch(
-//   `https://statsapi.web.nhl.com/api/v1/schedule?teamId=${teamIds[currentChamp]
-//   }&startDate=${formatDate(dateCurrent)}&endDate=${formatDate(dateFuture)}`
-// )
-//   .then((res) => res.json())
-//   .then((res) => {
-//     const game = res.dates[0].games[0];
+// schedule and upcoming game widget
 
-//     // formatting the home and away team names correctly
-//     let homeTeam = game.teams.home.team.name;
-//     let awayTeam = game.teams.away.team.name;
-//     homeTeam = homeTeam
-//       .split(" ")
-//     [homeTeam.split(" ").length - 1].toLowerCase();
-//     awayTeam = awayTeam
-//       .split(" ")
-//     [awayTeam.split(" ").length - 1].toLowerCase();
+fetch('23-24-schedule.json')
+  .then(res => res.json())
+  .then(res => {
 
-//     // adding date and team logos for the next game
-//     document.getElementById("date").innerText = new Date(
-//       game.gameDate
-//     ).toLocaleString("en-US", {
-//       weekday: "long",
-//       month: "short",
-//       day: "numeric",
-//     });
-//     document.getElementById("time").innerText = new Date(
-//       game.gameDate
-//     ).toLocaleString("en-US", {
-//       hour: "numeric",
-//       minute: "numeric",
-//     });
-//     document
-//       .getElementById("home")
-//       .setAttribute("src", `logos/${homeTeam}.png`);
-//     document
-//       .getElementById("away")
-//       .setAttribute("src", `logos/${awayTeam}.png`);
-//   });
+    let schedule = {}
+
+    // reformatting the schedule downloaded from hockeyreference.com
+
+    res.forEach(game => {
+      if (!Object.keys(schedule).includes(game.date)) {
+        schedule[game.date] = { 'games': [] }
+      }
+      schedule[game.date].games.push({ 'home': game.home, 'visitor': game.visitor })
+    })
+
+    let found = 0
+
+    for (let i = 0; i < 20; i++) {
+      let tempDate = new Date().setDate(new Date().getDate() + i)
+      tempDate = new Date(tempDate)
+      tempDate = formatDate(tempDate)
+
+      schedule[tempDate].games.forEach(game => {
+        if (Object.values(game).includes(currentChamp)) {
+          nextHome = game.home
+          nextVisitor = game.visitor
+          nextDate = tempDate
+          found = 1
+        }
+      })
+
+      if (found != 0) break
+
+    }
+
+    // adding date and team logos for the next game
+    
+    document.getElementById("date").innerText = new Date(
+      nextDate
+    ).toLocaleString("en-us", {
+      timeZone: "UTC",
+      weekday: "long",
+      month: "short",
+      day: "numeric",
+    });
+    document
+      .getElementById("home")
+      .setAttribute("src", `logos/${nextHome}.png`);
+    document
+      .getElementById("away")
+      .setAttribute("src", `logos/${nextVisitor}.png`);
+
+  })
 
 const teamPoints = [
   { anaheim: "2" },
@@ -147,14 +121,9 @@ teamPoints.forEach((team) => {
   document.getElementById(teamName).innerText = team[teamName];
 });
 
-// adds a border to the active cup champ and changes theme to team colors
+// adds a border to the active cup champ
 
 document.getElementById(currentChamp).parentElement.classList.add("champ");
-
-// document.documentElement.className = currentChamp
-
-// let themeSelector = document.getElementById('theme-selector')
-// themeSelector.addEventListener('change', () => document.documentElement.className = themeSelector.value)
 
 // gets all team points for each player and displays the max value of each next to the player name
 
@@ -186,59 +155,3 @@ modalOpen.addEventListener('click', () => {
 modalClose.addEventListener('click', () => {
   rulesModal.close();
 })
-
-// api sandbox
-
-fetch('23-24-schedule.json')
-  .then(res => res.json())
-  .then(res => {
-
-    let schedule = {}
-
-    res.forEach(game => {
-      if (!Object.keys(schedule).includes(game.date)) {
-        schedule[game.date] = { 'games': [] }
-      }
-      schedule[game.date].games.push({ 'home': game.home, 'visitor': game.visitor })
-    })
-
-    console.log(schedule)
-
-    let found = 0
-
-    for (let i = 0; i < 20; i++) {
-      let tempDate = new Date().setDate(new Date().getDate() + i)
-      tempDate = new Date(tempDate)
-      tempDate = formatDate(tempDate)
-
-      schedule[tempDate].games.forEach(game => {
-        if (Object.values(game).includes(currentChamp)) {
-          nextHome = game.home
-          nextVisitor = game.visitor
-          nextDate = tempDate
-          console.log(nextDate, nextHome, nextVisitor)
-          found = 1
-        }
-      })
-
-      if (found != 0) break
-
-    }
-
-    // adding date and team logos for the next game
-    document.getElementById("date").innerText = new Date(
-      nextDate
-    ).toLocaleString("en-us", {
-      timeZone: "UTC",
-      weekday: "long",
-      month: "short",
-      day: "numeric",
-    });
-    document
-      .getElementById("home")
-      .setAttribute("src", `logos/${nextHome}.png`);
-    document
-      .getElementById("away")
-      .setAttribute("src", `logos/${nextVisitor}.png`);
-
-  })
