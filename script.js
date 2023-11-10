@@ -36,6 +36,10 @@ const teamIds = {
 
 const currentChamp = "pittsburgh";
 
+let nextHome = ''
+let nextVisitor = ''
+let nextDate
+
 let days = 20;
 let dateCurrent = new Date();
 let dateTemp = new Date().setDate(new Date().getDate() + days);
@@ -54,46 +58,45 @@ function formatDate(date) {
 }
 
 // grabbing the upcoming schedule for the current cup holder and adding date and logos to the DOM
-fetch(
-  `https://statsapi.web.nhl.com/api/v1/schedule?teamId=${
-    teamIds[currentChamp]
-  }&startDate=${formatDate(dateCurrent)}&endDate=${formatDate(dateFuture)}`
-)
-  .then((res) => res.json())
-  .then((res) => {
-    const game = res.dates[0].games[0];
+// fetch(
+//   `https://statsapi.web.nhl.com/api/v1/schedule?teamId=${teamIds[currentChamp]
+//   }&startDate=${formatDate(dateCurrent)}&endDate=${formatDate(dateFuture)}`
+// )
+//   .then((res) => res.json())
+//   .then((res) => {
+//     const game = res.dates[0].games[0];
 
-    // formatting the home and away team names correctly
-    let homeTeam = game.teams.home.team.name;
-    let awayTeam = game.teams.away.team.name;
-    homeTeam = homeTeam
-      .split(" ")
-      [homeTeam.split(" ").length - 1].toLowerCase();
-    awayTeam = awayTeam
-      .split(" ")
-      [awayTeam.split(" ").length - 1].toLowerCase();
+//     // formatting the home and away team names correctly
+//     let homeTeam = game.teams.home.team.name;
+//     let awayTeam = game.teams.away.team.name;
+//     homeTeam = homeTeam
+//       .split(" ")
+//     [homeTeam.split(" ").length - 1].toLowerCase();
+//     awayTeam = awayTeam
+//       .split(" ")
+//     [awayTeam.split(" ").length - 1].toLowerCase();
 
-    // adding date and team logos for the next game
-    document.getElementById("date").innerText = new Date(
-      game.gameDate
-    ).toLocaleString("en-US", {
-      weekday: "long",
-      month: "short",
-      day: "numeric",
-    });
-    document.getElementById("time").innerText = new Date(
-      game.gameDate
-    ).toLocaleString("en-US", {
-      hour: "numeric",
-      minute: "numeric",
-    });
-    document
-      .getElementById("home")
-      .setAttribute("src", `logos/${homeTeam}.png`);
-    document
-      .getElementById("away")
-      .setAttribute("src", `logos/${awayTeam}.png`);
-  });
+//     // adding date and team logos for the next game
+//     document.getElementById("date").innerText = new Date(
+//       game.gameDate
+//     ).toLocaleString("en-US", {
+//       weekday: "long",
+//       month: "short",
+//       day: "numeric",
+//     });
+//     document.getElementById("time").innerText = new Date(
+//       game.gameDate
+//     ).toLocaleString("en-US", {
+//       hour: "numeric",
+//       minute: "numeric",
+//     });
+//     document
+//       .getElementById("home")
+//       .setAttribute("src", `logos/${homeTeam}.png`);
+//     document
+//       .getElementById("away")
+//       .setAttribute("src", `logos/${awayTeam}.png`);
+//   });
 
 const teamPoints = [
   { anaheim: "2" },
@@ -183,3 +186,59 @@ modalOpen.addEventListener('click', () => {
 modalClose.addEventListener('click', () => {
   rulesModal.close();
 })
+
+// api sandbox
+
+fetch('23-24-schedule.json')
+  .then(res => res.json())
+  .then(res => {
+
+    let schedule = {}
+
+    res.forEach(game => {
+      if (!Object.keys(schedule).includes(game.date)) {
+        schedule[game.date] = { 'games': [] }
+      }
+      schedule[game.date].games.push({ 'home': game.home, 'visitor': game.visitor })
+    })
+
+    console.log(schedule)
+
+    let found = 0
+
+    for (let i = 0; i < 20; i++) {
+      let tempDate = new Date().setDate(new Date().getDate() + i)
+      tempDate = new Date(tempDate)
+      tempDate = formatDate(tempDate)
+
+      schedule[tempDate].games.forEach(game => {
+        if (Object.values(game).includes(currentChamp)) {
+          nextHome = game.home
+          nextVisitor = game.visitor
+          nextDate = tempDate
+          console.log(nextDate, nextHome, nextVisitor)
+          found = 1
+        }
+      })
+
+      if (found != 0) break
+
+    }
+
+    // adding date and team logos for the next game
+    document.getElementById("date").innerText = new Date(
+      nextDate
+    ).toLocaleString("en-us", {
+      timeZone: "UTC",
+      weekday: "long",
+      month: "short",
+      day: "numeric",
+    });
+    document
+      .getElementById("home")
+      .setAttribute("src", `logos/${nextHome}.png`);
+    document
+      .getElementById("away")
+      .setAttribute("src", `logos/${nextVisitor}.png`);
+
+  })

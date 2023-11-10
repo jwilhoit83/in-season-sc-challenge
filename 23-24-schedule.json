@@ -1,0 +1,6562 @@
+[
+  {
+    "date": "2023-10-10",
+    "visitor": "chicago",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-10-10",
+    "visitor": "nashville",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-10-10",
+    "visitor": "seattle",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-10-11",
+    "visitor": "chicago",
+    "home": "boston"
+  },
+  {
+    "date": "2023-10-11",
+    "visitor": "ottawa",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-10-11",
+    "visitor": "winnipeg",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-10-11",
+    "visitor": "colorado",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-10-11",
+    "visitor": "montreal",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-10-11",
+    "visitor": "edmonton",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "ny-rangers",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "philadelphia",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "st-louis",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "florida",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "detroit",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "seattle",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-10-12",
+    "visitor": "vegas",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-10-13",
+    "visitor": "arizona",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-10-13",
+    "visitor": "pittsburgh",
+    "home": "washington"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "nashville",
+    "home": "boston"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "ny-rangers",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "tampa",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "vancouver",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "carolina",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "chicago",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "buffalo",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "philadelphia",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "calgary",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "colorado",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "seattle",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "minnesota",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "anaheim",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-10-14",
+    "visitor": "florida",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-10-15",
+    "visitor": "carolina",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-10-15",
+    "visitor": "tampa",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-10-16",
+    "visitor": "detroit",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-10-16",
+    "visitor": "florida",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-10-16",
+    "visitor": "arizona",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-10-16",
+    "visitor": "chicago",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-10-16",
+    "visitor": "calgary",
+    "home": "washington"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "tampa",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "minnesota",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "edmonton",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "arizona",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "vancouver",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "colorado",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "carolina",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "Dallas Stars",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-10-17",
+    "visitor": "los-angeles",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-10-18",
+    "visitor": "pittsburgh",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-10-18",
+    "visitor": "washington",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "Dallas Stars",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "calgary",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "chicago",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "toronto",
+    "home": "florida"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "los-angeles",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "nashville",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "edmonton",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "carolina",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "boston",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "arizona",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "vancouver",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-10-19",
+    "visitor": "vegas",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-10-20",
+    "visitor": "calgary",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-10-20",
+    "visitor": "new-jersey",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "anaheim",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "ny-islanders",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "vegas",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "carolina",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "philadelphia",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "winnipeg",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "vancouver",
+    "home": "florida"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "boston",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "columbus",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "washington",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "san-jose",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "detroit",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "ny-rangers",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "pittsburgh",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-10-21",
+    "visitor": "toronto",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-10-22",
+    "visitor": "boston",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-10-22",
+    "visitor": "calgary",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-10-23",
+    "visitor": "montreal",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "anaheim",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "ny-rangers",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "boston",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "seattle",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "san-jose",
+    "home": "florida"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "arizona",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "edmonton",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "new-jersey",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "vancouver",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "colorado",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "buffalo",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "Dallas Stars",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "carolina",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "philadelphia",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "st-louis",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-10-24",
+    "visitor": "toronto",
+    "home": "washington"
+  },
+  {
+    "date": "2023-10-25",
+    "visitor": "washington",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "anaheim",
+    "home": "boston"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "seattle",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "st-louis",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "toronto",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "winnipeg",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "ny-rangers",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "columbus",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "ottawa",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "minnesota",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "colorado",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-10-26",
+    "visitor": "san-jose",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-10-27",
+    "visitor": "los-angeles",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-10-27",
+    "visitor": "san-jose",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-10-27",
+    "visitor": "buffalo",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-10-27",
+    "visitor": "st-louis",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-10-27",
+    "visitor": "chicago",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-10-27",
+    "visitor": "minnesota",
+    "home": "washington"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "detroit",
+    "home": "boston"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "ny-islanders",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "seattle",
+    "home": "florida"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "vegas",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "winnipeg",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "toronto",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "anaheim",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "ottawa",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-10-28",
+    "visitor": "ny-rangers",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-10-29",
+    "visitor": "colorado",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-10-29",
+    "visitor": "calgary",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-10-29",
+    "visitor": "minnesota",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-10-29",
+    "visitor": "san-jose",
+    "home": "washington"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "chicago",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "florida",
+    "home": "boston"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "columbus",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "detroit",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "carolina",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "anaheim",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "seattle",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "montreal",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-10-30",
+    "visitor": "ny-rangers",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-10-31",
+    "visitor": "los-angeles",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-10-31",
+    "visitor": "nashville",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-01",
+    "visitor": "arizona",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-01",
+    "visitor": "Dallas Stars",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-11-01",
+    "visitor": "st-louis",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-01",
+    "visitor": "buffalo",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "montreal",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "toronto",
+    "home": "boston"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "tampa",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "florida",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "Dallas Stars",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "new-jersey",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "carolina",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "los-angeles",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "nashville",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "vancouver",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "winnipeg",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-11-02",
+    "visitor": "ny-islanders",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-03",
+    "visitor": "philadelphia",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-11-03",
+    "visitor": "new-jersey",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "winnipeg",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "florida",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "boston",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "nashville",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "ny-rangers",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "carolina",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "tampa",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "los-angeles",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "calgary",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "pittsburgh",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "montreal",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "buffalo",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "Dallas Stars",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "colorado",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-11-04",
+    "visitor": "columbus",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-05",
+    "visitor": "vegas",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-05",
+    "visitor": "new-jersey",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-06",
+    "visitor": "boston",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-11-06",
+    "visitor": "columbus",
+    "home": "florida"
+  },
+  {
+    "date": "2023-11-06",
+    "visitor": "tampa",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-06",
+    "visitor": "edmonton",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "pittsburgh",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "seattle",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "buffalo",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "nashville",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "new-jersey",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "tampa",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "minnesota",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "detroit",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "philadelphia",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-07",
+    "visitor": "winnipeg",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-08",
+    "visitor": "ottawa",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-08",
+    "visitor": "los-angeles",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-11-08",
+    "visitor": "florida",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "ny-islanders",
+    "home": "boston"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "Dallas Stars",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "seattle",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "montreal",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "pittsburgh",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "minnesota",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "vancouver",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "edmonton",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "arizona",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "chicago",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-11-09",
+    "visitor": "nashville",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-11-10",
+    "visitor": "philadelphia",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-10",
+    "visitor": "minnesota",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-11-10",
+    "visitor": "carolina",
+    "home": "florida"
+  },
+  {
+    "date": "2023-11-10",
+    "visitor": "washington",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-11-10",
+    "visitor": "calgary",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-10",
+    "visitor": "san-jose",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "st-louis",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "columbus",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "philadelphia",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "boston",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "arizona",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "washington",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "calgary",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "buffalo",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "edmonton",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "carolina",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "vancouver",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-11",
+    "visitor": "Dallas Stars",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-11-12",
+    "visitor": "san-jose",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-12",
+    "visitor": "chicago",
+    "home": "florida"
+  },
+  {
+    "date": "2023-11-12",
+    "visitor": "Dallas Stars",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-11-12",
+    "visitor": "vancouver",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-11-12",
+    "visitor": "columbus",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-13",
+    "visitor": "ny-islanders",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-11-13",
+    "visitor": "colorado",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "boston",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "pittsburgh",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "arizona",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "calgary",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "anaheim",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "florida",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "tampa",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "new-jersey",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-11-14",
+    "visitor": "vegas",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-15",
+    "visitor": "philadelphia",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-15",
+    "visitor": "anaheim",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-15",
+    "visitor": "seattle",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-11-15",
+    "visitor": "ny-islanders",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "arizona",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "vancouver",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "tampa",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "florida",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "vegas",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "detroit",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "new-jersey",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "ny-islanders",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-16",
+    "visitor": "st-louis",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-17",
+    "visitor": "florida",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-17",
+    "visitor": "toronto",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-17",
+    "visitor": "buffalo",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "montreal",
+    "home": "boston"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "pittsburgh",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "ny-islanders",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "colorado",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "st-louis",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "ny-rangers",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "chicago",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "minnesota",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "vegas",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "edmonton",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "seattle",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "arizona",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-11-18",
+    "visitor": "columbus",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-19",
+    "visitor": "st-louis",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-19",
+    "visitor": "buffalo",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-19",
+    "visitor": "toronto",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-11-19",
+    "visitor": "columbus",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-19",
+    "visitor": "vegas",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "los-angeles",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "ny-rangers",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "edmonton",
+    "home": "florida"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "colorado",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "calgary",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "boston",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-11-20",
+    "visitor": "san-jose",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "montreal",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "st-louis",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "edmonton",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "chicago",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "vancouver",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "vegas",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "new-jersey",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "boston",
+    "home": "florida"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "calgary",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "philadelphia",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "ny-rangers",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "san-jose",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "winnipeg",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-11-22",
+    "visitor": "buffalo",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "los-angeles",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "detroit",
+    "home": "boston"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "pittsburgh",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "tampa",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "toronto",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "calgary",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "winnipeg",
+    "home": "florida"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "colorado",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "columbus",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "ny-islanders",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "ny-rangers",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "vancouver",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "montreal",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "nashville",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-24",
+    "visitor": "edmonton",
+    "home": "washington"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "calgary",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "montreal",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "buffalo",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "philadelphia",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "boston",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "toronto",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "vancouver",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-25",
+    "visitor": "arizona",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-11-26",
+    "visitor": "columbus",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-26",
+    "visitor": "st-louis",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-26",
+    "visitor": "minnesota",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-26",
+    "visitor": "anaheim",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-11-26",
+    "visitor": "winnipeg",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-27",
+    "visitor": "boston",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-27",
+    "visitor": "vegas",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-11-27",
+    "visitor": "tampa",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-11-27",
+    "visitor": "buffalo",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-27",
+    "visitor": "florida",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-11-27",
+    "visitor": "washington",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "tampa",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "seattle",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "vegas",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "st-louis",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "ny-islanders",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "pittsburgh",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "carolina",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "florida",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "anaheim",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-28",
+    "visitor": "Dallas Stars",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-11-29",
+    "visitor": "montreal",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-11-29",
+    "visitor": "washington",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-11-29",
+    "visitor": "detroit",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "washington",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "colorado",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "san-jose",
+    "home": "boston"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "ny-islanders",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "Dallas Stars",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "chicago",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "florida",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "minnesota",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "new-jersey",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "buffalo",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "pittsburgh",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "seattle",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "vegas",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-11-30",
+    "visitor": "edmonton",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-01",
+    "visitor": "ottawa",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-01",
+    "visitor": "san-jose",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "colorado",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "st-louis",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "buffalo",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "vancouver",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "tampa",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "ny-islanders",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "detroit",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "ny-rangers",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "seattle",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "philadelphia",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "boston",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "washington",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-02",
+    "visitor": "chicago",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-03",
+    "visitor": "columbus",
+    "home": "boston"
+  },
+  {
+    "date": "2023-12-03",
+    "visitor": "nashville",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-03",
+    "visitor": "colorado",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-12-03",
+    "visitor": "chicago",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-03",
+    "visitor": "san-jose",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-04",
+    "visitor": "washington",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-04",
+    "visitor": "seattle",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-12-04",
+    "visitor": "pittsburgh",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-12-04",
+    "visitor": "Dallas Stars",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-12-04",
+    "visitor": "st-louis",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-04",
+    "visitor": "carolina",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "detroit",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "los-angeles",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "minnesota",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "nashville",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "anaheim",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "san-jose",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "ny-rangers",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-05",
+    "visitor": "new-jersey",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-06",
+    "visitor": "carolina",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-12-06",
+    "visitor": "Dallas Stars",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-06",
+    "visitor": "vegas",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-06",
+    "visitor": "pittsburgh",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "philadelphia",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "buffalo",
+    "home": "boston"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "carolina",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "anaheim",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "winnipeg",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "san-jose",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "los-angeles",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "tampa",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "columbus",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "toronto",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "new-jersey",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "minnesota",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-07",
+    "visitor": "Dallas Stars",
+    "home": "washington"
+  },
+  {
+    "date": "2023-12-08",
+    "visitor": "st-louis",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-08",
+    "visitor": "minnesota",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-12-08",
+    "visitor": "pittsburgh",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "arizona",
+    "home": "boston"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "montreal",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "new-jersey",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "st-louis",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "philadelphia",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "vegas",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "ottawa",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "los-angeles",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "tampa",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "nashville",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "carolina",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-09",
+    "visitor": "ny-rangers",
+    "home": "washington"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "winnipeg",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "florida",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "washington",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "new-jersey",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "nashville",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "los-angeles",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "minnesota",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-10",
+    "visitor": "san-jose",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-11",
+    "visitor": "arizona",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-11",
+    "visitor": "calgary",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-11",
+    "visitor": "detroit",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-11",
+    "visitor": "toronto",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "chicago",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "philadelphia",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "toronto",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "carolina",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "arizona",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "florida",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "winnipeg",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "detroit",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "tampa",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-12",
+    "visitor": "calgary",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-13",
+    "visitor": "buffalo",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-13",
+    "visitor": "winnipeg",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-12-13",
+    "visitor": "pittsburgh",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-12-13",
+    "visitor": "boston",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-13",
+    "visitor": "anaheim",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "carolina",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "tampa",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "calgary",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "washington",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "chicago",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "ottawa",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "columbus",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-14",
+    "visitor": "florida",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-15",
+    "visitor": "san-jose",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-15",
+    "visitor": "nashville",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-12-15",
+    "visitor": "ottawa",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-15",
+    "visitor": "boston",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-15",
+    "visitor": "anaheim",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-15",
+    "visitor": "buffalo",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "buffalo",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "ny-rangers",
+    "home": "boston"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "new-jersey",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "tampa",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "florida",
+    "home": "edmonton"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "vancouver",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "ny-islanders",
+    "home": "montreal"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "washington",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "detroit",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "los-angeles",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "Dallas Stars",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "pittsburgh",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-16",
+    "visitor": "colorado",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-17",
+    "visitor": "washington",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-12-17",
+    "visitor": "vancouver",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-17",
+    "visitor": "san-jose",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-17",
+    "visitor": "anaheim",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-17",
+    "visitor": "ottawa",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-18",
+    "visitor": "florida",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-18",
+    "visitor": "seattle",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-18",
+    "visitor": "anaheim",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-18",
+    "visitor": "minnesota",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-12-18",
+    "visitor": "montreal",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "ottawa",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "minnesota",
+    "home": "boston"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "columbus",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "vegas",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "colorado",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "philadelphia",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "vancouver",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "edmonton",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "los-angeles",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "st-louis",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-12-19",
+    "visitor": "ny-rangers",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-20",
+    "visitor": "seattle",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-12-20",
+    "visitor": "detroit",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-20",
+    "visitor": "ny-islanders",
+    "home": "washington"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "calgary",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "toronto",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "washington",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "ottawa",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "vancouver",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "st-louis",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "montreal",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "edmonton",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "nashville",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "carolina",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "arizona",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-12-21",
+    "visitor": "vegas",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-12-22",
+    "visitor": "montreal",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-22",
+    "visitor": "philadelphia",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-22",
+    "visitor": "edmonton",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-22",
+    "visitor": "boston",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "seattle",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "ny-islanders",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "toronto",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "arizona",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "vegas",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "calgary",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "boston",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "detroit",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "Dallas Stars",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "buffalo",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "pittsburgh",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "chicago",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "san-jose",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-23",
+    "visitor": "tampa",
+    "home": "washington"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "vegas",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "colorado",
+    "home": "arizona"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "boston",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "seattle",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "winnipeg",
+    "home": "chicago"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "san-jose",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "detroit",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "columbus",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "carolina",
+    "home": "nashville"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "pittsburgh",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "washington",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "Dallas Stars",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "florida",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-12-27",
+    "visitor": "ottawa",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-28",
+    "visitor": "montreal",
+    "home": "carolina"
+  },
+  {
+    "date": "2023-12-28",
+    "visitor": "edmonton",
+    "home": "san-jose"
+  },
+  {
+    "date": "2023-12-28",
+    "visitor": "philadelphia",
+    "home": "vancouver"
+  },
+  {
+    "date": "2023-12-28",
+    "visitor": "los-angeles",
+    "home": "vegas"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "arizona",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "toronto",
+    "home": "columbus"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "chicago",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "nashville",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "ny-rangers",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "washington",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "new-jersey",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "philadelphia",
+    "home": "seattle"
+  },
+  {
+    "date": "2023-12-29",
+    "visitor": "colorado",
+    "home": "st-louis"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "new-jersey",
+    "home": "boston"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "columbus",
+    "home": "buffalo"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "montreal",
+    "home": "florida"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "edmonton",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "st-louis",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "ny-rangers",
+    "home": "tampa"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "carolina",
+    "home": "toronto"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "minnesota",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2023-12-30",
+    "visitor": "nashville",
+    "home": "washington"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "edmonton",
+    "home": "anaheim"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "philadelphia",
+    "home": "calgary"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "san-jose",
+    "home": "colorado"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "chicago",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "boston",
+    "home": "detroit"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "winnipeg",
+    "home": "minnesota"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "buffalo",
+    "home": "ottawa"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "ny-islanders",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2023-12-31",
+    "visitor": "montreal",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-01",
+    "visitor": "vegas",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "florida",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "boston",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "ny-islanders",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "montreal",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "philadelphia",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "toronto",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "calgary",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "chicago",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "carolina",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "washington",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "detroit",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "ottawa",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-01-02",
+    "visitor": "tampa",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-01-03",
+    "visitor": "toronto",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-01-03",
+    "visitor": "new-jersey",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "ny-islanders",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "pittsburgh",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "colorado",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "detroit",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "tampa",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "buffalo",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "calgary",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "chicago",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "columbus",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "ottawa",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "winnipeg",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "vancouver",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-04",
+    "visitor": "florida",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-05",
+    "visitor": "winnipeg",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-01-05",
+    "visitor": "chicago",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-01-05",
+    "visitor": "carolina",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "tampa",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "st-louis",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "minnesota",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "florida",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "nashville",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "ottawa",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "ny-rangers",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "vancouver",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "calgary",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "buffalo",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "toronto",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-06",
+    "visitor": "ny-islanders",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-07",
+    "visitor": "detroit",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-01-07",
+    "visitor": "winnipeg",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-07",
+    "visitor": "calgary",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-01-07",
+    "visitor": "los-angeles",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-08",
+    "visitor": "boston",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-01-08",
+    "visitor": "Dallas Stars",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-08",
+    "visitor": "vancouver",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-01-08",
+    "visitor": "pittsburgh",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "boston",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "seattle",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "ottawa",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "edmonton",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "anaheim",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "vancouver",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "florida",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "los-angeles",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "san-jose",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-01-09",
+    "visitor": "columbus",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-01-10",
+    "visitor": "vegas",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-01-10",
+    "visitor": "minnesota",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-10",
+    "visitor": "montreal",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "calgary",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "ottawa",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "anaheim",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "edmonton",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "los-angeles",
+    "home": "florida"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "san-jose",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "toronto",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "vancouver",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "ny-rangers",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "new-jersey",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "boston",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "chicago",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-01-11",
+    "visitor": "seattle",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-12",
+    "visitor": "nashville",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-12",
+    "visitor": "philadelphia",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "vancouver",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "pittsburgh",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "seattle",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "Dallas Stars",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "los-angeles",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "new-jersey",
+    "home": "florida"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "arizona",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "edmonton",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "ny-islanders",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "san-jose",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "boston",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "anaheim",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "colorado",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "calgary",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "philadelphia",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-01-13",
+    "visitor": "ny-rangers",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-14",
+    "visitor": "washington",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-01-14",
+    "visitor": "detroit",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "new-jersey",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "san-jose",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "los-angeles",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "vancouver",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "anaheim",
+    "home": "florida"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "ny-islanders",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "colorado",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "seattle",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "philadelphia",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-15",
+    "visitor": "nashville",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "arizona",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "san-jose",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "los-angeles",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "toronto",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "seattle",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "colorado",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "ny-islanders",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-01-16",
+    "visitor": "anaheim",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-17",
+    "visitor": "chicago",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-01-17",
+    "visitor": "detroit",
+    "home": "florida"
+  },
+  {
+    "date": "2024-01-17",
+    "visitor": "montreal",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "colorado",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "toronto",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "seattle",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "nashville",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "montreal",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "Dallas Stars",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "minnesota",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "arizona",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "ny-rangers",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-18",
+    "visitor": "st-louis",
+    "home": "washington"
+  },
+  {
+    "date": "2024-01-19",
+    "visitor": "detroit",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-19",
+    "visitor": "new-jersey",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-01-19",
+    "visitor": "ny-islanders",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-01-19",
+    "visitor": "minnesota",
+    "home": "florida"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "nashville",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "montreal",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "tampa",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "edmonton",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "ny-rangers",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "Dallas Stars",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "winnipeg",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "colorado",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "anaheim",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "washington",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "toronto",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-01-20",
+    "visitor": "pittsburgh",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-01-21",
+    "visitor": "ny-rangers",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-01-21",
+    "visitor": "minnesota",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-21",
+    "visitor": "tampa",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-21",
+    "visitor": "Dallas Stars",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-01-21",
+    "visitor": "ottawa",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-21",
+    "visitor": "toronto",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-01-22",
+    "visitor": "pittsburgh",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-01-22",
+    "visitor": "winnipeg",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-22",
+    "visitor": "san-jose",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-01-22",
+    "visitor": "vegas",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-01-22",
+    "visitor": "florida",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-01-22",
+    "visitor": "chicago",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "buffalo",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "st-louis",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "Dallas Stars",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "columbus",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "washington",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "ottawa",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "vegas",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "tampa",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-23",
+    "visitor": "ny-rangers",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "carolina",
+    "home": "boston"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "washington",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "arizona",
+    "home": "florida"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "buffalo",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "chicago",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "winnipeg",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-01-24",
+    "visitor": "st-louis",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "new-jersey",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "columbus",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "anaheim",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "philadelphia",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "chicago",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "nashville",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "ny-islanders",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "boston",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-25",
+    "visitor": "arizona",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-26",
+    "visitor": "los-angeles",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-01-26",
+    "visitor": "vegas",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-01-26",
+    "visitor": "florida",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-01-26",
+    "visitor": "st-louis",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "arizona",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "chicago",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "washington",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "vegas",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "nashville",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "anaheim",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "florida",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "ny-rangers",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "boston",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "montreal",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "buffalo",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "new-jersey",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "columbus",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-01-27",
+    "visitor": "toronto",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-01-28",
+    "visitor": "columbus",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-01-28",
+    "visitor": "los-angeles",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-29",
+    "visitor": "nashville",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-01-30",
+    "visitor": "seattle",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-01-30",
+    "visitor": "columbus",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-01-31",
+    "visitor": "san-jose",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-01-31",
+    "visitor": "ottawa",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-01-31",
+    "visitor": "los-angeles",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-02-05",
+    "visitor": "colorado",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-02-05",
+    "visitor": "ny-islanders",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "calgary",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "Dallas Stars",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "vancouver",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "philadelphia",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "colorado",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "winnipeg",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "edmonton",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-02-06",
+    "visitor": "montreal",
+    "home": "washington"
+  },
+  {
+    "date": "2024-02-07",
+    "visitor": "minnesota",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-07",
+    "visitor": "tampa",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-02-07",
+    "visitor": "Dallas Stars",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "vegas",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "vancouver",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "colorado",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "washington",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "calgary",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "tampa",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-02-08",
+    "visitor": "winnipeg",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-02-09",
+    "visitor": "edmonton",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-02-09",
+    "visitor": "ny-rangers",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-09",
+    "visitor": "pittsburgh",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "washington",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "st-louis",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "new-jersey",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "tampa",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "vancouver",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "colorado",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "edmonton",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "Dallas Stars",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "arizona",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "calgary",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "toronto",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "seattle",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-02-10",
+    "visitor": "pittsburgh",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-02-11",
+    "visitor": "st-louis",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-02-11",
+    "visitor": "vancouver",
+    "home": "washington"
+  },
+  {
+    "date": "2024-02-12",
+    "visitor": "seattle",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-12",
+    "visitor": "calgary",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-02-12",
+    "visitor": "arizona",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-02-12",
+    "visitor": "minnesota",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "tampa",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "los-angeles",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "vancouver",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "carolina",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "detroit",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "anaheim",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "new-jersey",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "seattle",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "columbus",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "st-louis",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-13",
+    "visitor": "colorado",
+    "home": "washington"
+  },
+  {
+    "date": "2024-02-14",
+    "visitor": "minnesota",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-02-14",
+    "visitor": "florida",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-02-14",
+    "visitor": "san-jose",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "seattle",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "florida",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "san-jose",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "pittsburgh",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "los-angeles",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "Dallas Stars",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "montreal",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "anaheim",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "edmonton",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "colorado",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "philadelphia",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-15",
+    "visitor": "detroit",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-02-16",
+    "visitor": "carolina",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "los-angeles",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "detroit",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "ottawa",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "edmonton",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "buffalo",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "washington",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "philadelphia",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "columbus",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "nashville",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "florida",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "anaheim",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "winnipeg",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-02-17",
+    "visitor": "carolina",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-02-18",
+    "visitor": "arizona",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-02-18",
+    "visitor": "ny-rangers",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-02-18",
+    "visitor": "los-angeles",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "edmonton",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "Dallas Stars",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "anaheim",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "chicago",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "winnipeg",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "vancouver",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "detroit",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "vegas",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "toronto",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-02-19",
+    "visitor": "ottawa",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "vancouver",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "ottawa",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "columbus",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "Dallas Stars",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "ny-islanders",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "nashville",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "minnesota",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-02-20",
+    "visitor": "new-jersey",
+    "home": "washington"
+  },
+  {
+    "date": "2024-02-21",
+    "visitor": "columbus",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-02-21",
+    "visitor": "toronto",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-02-21",
+    "visitor": "philadelphia",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-21",
+    "visitor": "boston",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-02-21",
+    "visitor": "buffalo",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "florida",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "boston",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "colorado",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "nashville",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "ny-rangers",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "Dallas Stars",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "montreal",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "vancouver",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "ny-islanders",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "washington",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-02-22",
+    "visitor": "toronto",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-02-23",
+    "visitor": "buffalo",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-02-23",
+    "visitor": "winnipeg",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-23",
+    "visitor": "minnesota",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "Dallas Stars",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "toronto",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "st-louis",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "calgary",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "washington",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "anaheim",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "montreal",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "tampa",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "vegas",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "ny-rangers",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "minnesota",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "nashville",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-02-24",
+    "visitor": "boston",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "nashville",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "carolina",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "ny-rangers",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "detroit",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "tampa",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "philadelphia",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-02-25",
+    "visitor": "arizona",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-02-26",
+    "visitor": "ny-islanders",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-02-26",
+    "visitor": "los-angeles",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-02-26",
+    "visitor": "boston",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-02-26",
+    "visitor": "ottawa",
+    "home": "washington"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "los-angeles",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "Dallas Stars",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "washington",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "buffalo",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "carolina",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "arizona",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "ottawa",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "tampa",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "new-jersey",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "vegas",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "pittsburgh",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-02-27",
+    "visitor": "st-louis",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-02-28",
+    "visitor": "st-louis",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-02-28",
+    "visitor": "columbus",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "vegas",
+    "home": "boston"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "carolina",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "colorado",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "winnipeg",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "ny-islanders",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "montreal",
+    "home": "florida"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "minnesota",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "pittsburgh",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "anaheim",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "buffalo",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "arizona",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-02-29",
+    "visitor": "los-angeles",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-01",
+    "visitor": "new-jersey",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-01",
+    "visitor": "arizona",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-03-01",
+    "visitor": "philadelphia",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "vegas",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "winnipeg",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "pittsburgh",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "columbus",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "san-jose",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "florida",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "colorado",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "boston",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "ottawa",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "edmonton",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "minnesota",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "montreal",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-03-02",
+    "visitor": "ny-rangers",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-03",
+    "visitor": "vancouver",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-03",
+    "visitor": "winnipeg",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-03",
+    "visitor": "pittsburgh",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-03",
+    "visitor": "new-jersey",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-03",
+    "visitor": "san-jose",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-03",
+    "visitor": "arizona",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-04",
+    "visitor": "vegas",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-04",
+    "visitor": "seattle",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-04",
+    "visitor": "chicago",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-04",
+    "visitor": "florida",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-04",
+    "visitor": "st-louis",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-04",
+    "visitor": "boston",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "chicago",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "edmonton",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "vancouver",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "florida",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "montreal",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "st-louis",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "columbus",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "Dallas Stars",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-03-05",
+    "visitor": "seattle",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-06",
+    "visitor": "ottawa",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-06",
+    "visitor": "detroit",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-06",
+    "visitor": "buffalo",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "minnesota",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "toronto",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "montreal",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "edmonton",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "philadelphia",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "ottawa",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "st-louis",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "buffalo",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "washington",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "ny-islanders",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "calgary",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-03-07",
+    "visitor": "vancouver",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-03-08",
+    "visitor": "Dallas Stars",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-08",
+    "visitor": "detroit",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-08",
+    "visitor": "minnesota",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-08",
+    "visitor": "winnipeg",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "pittsburgh",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "edmonton",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "nashville",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "calgary",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "Dallas Stars",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "toronto",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "carolina",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "st-louis",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "ottawa",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "philadelphia",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "winnipeg",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "detroit",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-03-09",
+    "visitor": "chicago",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-10",
+    "visitor": "ny-islanders",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-10",
+    "visitor": "calgary",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-10",
+    "visitor": "arizona",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-03-10",
+    "visitor": "nashville",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-10",
+    "visitor": "edmonton",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-11",
+    "visitor": "st-louis",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-11",
+    "visitor": "ny-islanders",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-11",
+    "visitor": "new-jersey",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-11",
+    "visitor": "washington",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "detroit",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "ny-rangers",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "colorado",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "anaheim",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "florida",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "arizona",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "columbus",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "pittsburgh",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "san-jose",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-12",
+    "visitor": "vegas",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-13",
+    "visitor": "washington",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-13",
+    "visitor": "los-angeles",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-13",
+    "visitor": "colorado",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-13",
+    "visitor": "nashville",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "ny-islanders",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "florida",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "ottawa",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "vegas",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "new-jersey",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "arizona",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "anaheim",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "boston",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "toronto",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "san-jose",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "washington",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-14",
+    "visitor": "ny-rangers",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-03-15",
+    "visitor": "los-angeles",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-03-15",
+    "visitor": "anaheim",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "new-jersey",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "philadelphia",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "san-jose",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "montreal",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "los-angeles",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "buffalo",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "colorado",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "tampa",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "ottawa",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "ny-rangers",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "nashville",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "minnesota",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "carolina",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-16",
+    "visitor": "washington",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "winnipeg",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "san-jose",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "ny-islanders",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "carolina",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "detroit",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "anaheim",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-17",
+    "visitor": "new-jersey",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-03-18",
+    "visitor": "washington",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-18",
+    "visitor": "buffalo",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "minnesota",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "ottawa",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "columbus",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "montreal",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "chicago",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "pittsburgh",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "san-jose",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "carolina",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "winnipeg",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "toronto",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "colorado",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "buffalo",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-19",
+    "visitor": "tampa",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-03-20",
+    "visitor": "arizona",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-03-20",
+    "visitor": "minnesota",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-20",
+    "visitor": "toronto",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "chicago",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "ny-rangers",
+    "home": "boston"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "philadelphia",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "ny-islanders",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "buffalo",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "nashville",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "winnipeg",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "st-louis",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "tampa",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "montreal",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-21",
+    "visitor": "seattle",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-03-22",
+    "visitor": "seattle",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-22",
+    "visitor": "columbus",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-22",
+    "visitor": "pittsburgh",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-03-22",
+    "visitor": "carolina",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "tampa",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "st-louis",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "ottawa",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "detroit",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "winnipeg",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "florida",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "boston",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "chicago",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "edmonton",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "calgary",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-23",
+    "visitor": "columbus",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "tampa",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "Dallas Stars",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "toronto",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "buffalo",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "pittsburgh",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "new-jersey",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "edmonton",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "florida",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "montreal",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-24",
+    "visitor": "winnipeg",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-25",
+    "visitor": "vegas",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-25",
+    "visitor": "los-angeles",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "columbus",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "calgary",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "montreal",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "boston",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "vegas",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "philadelphia",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "carolina",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "anaheim",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "Dallas Stars",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "new-jersey",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "edmonton",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-26",
+    "visitor": "detroit",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-27",
+    "visitor": "ottawa",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-27",
+    "visitor": "boston",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "nashville",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "detroit",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "ny-rangers",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "los-angeles",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "ny-islanders",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "san-jose",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "philadelphia",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "chicago",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "columbus",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "anaheim",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "calgary",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "washington",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "Dallas Stars",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-03-28",
+    "visitor": "vegas",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-29",
+    "visitor": "new-jersey",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "ny-rangers",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "toronto",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "pittsburgh",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "los-angeles",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "nashville",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "anaheim",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "detroit",
+    "home": "florida"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "vegas",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "carolina",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "chicago",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "Dallas Stars",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "san-jose",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "ny-islanders",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "ottawa",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-03-30",
+    "visitor": "boston",
+    "home": "washington"
+  },
+  {
+    "date": "2024-03-31",
+    "visitor": "anaheim",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "colorado",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "pittsburgh",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "ny-islanders",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "seattle",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "edmonton",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "detroit",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "florida",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-04-01",
+    "visitor": "los-angeles",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "washington",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "anaheim",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "ottawa",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "florida",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "pittsburgh",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "boston",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "chicago",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-04-02",
+    "visitor": "vancouver",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-04-03",
+    "visitor": "vancouver",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-04-03",
+    "visitor": "edmonton",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-04-03",
+    "visitor": "seattle",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-04-03",
+    "visitor": "new-jersey",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-04-03",
+    "visitor": "tampa",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "boston",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "ny-islanders",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "colorado",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "tampa",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "st-louis",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "florida",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "los-angeles",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "calgary",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-04-04",
+    "visitor": "pittsburgh",
+    "home": "washington"
+  },
+  {
+    "date": "2024-04-05",
+    "visitor": "seattle",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-04-05",
+    "visitor": "vegas",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-04-05",
+    "visitor": "philadelphia",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-04-05",
+    "visitor": "washington",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-04-05",
+    "visitor": "ny-rangers",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-04-05",
+    "visitor": "colorado",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "florida",
+    "home": "boston"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "philadelphia",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "edmonton",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "Dallas Stars",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "vancouver",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "winnipeg",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "toronto",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "nashville",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "new-jersey",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "tampa",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-04-06",
+    "visitor": "st-louis",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "st-louis",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "columbus",
+    "home": "carolina"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "minnesota",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "Dallas Stars",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "buffalo",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "nashville",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "montreal",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "arizona",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-04-07",
+    "visitor": "ottawa",
+    "home": "washington"
+  },
+  {
+    "date": "2024-04-08",
+    "visitor": "pittsburgh",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-04-08",
+    "visitor": "vegas",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "los-angeles",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "carolina",
+    "home": "boston"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "minnesota",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "buffalo",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "washington",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "ottawa",
+    "home": "florida"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "philadelphia",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "toronto",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "winnipeg",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "ny-rangers",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "arizona",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "calgary",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-04-09",
+    "visitor": "columbus",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-04-10",
+    "visitor": "vegas",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-04-10",
+    "visitor": "chicago",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-04-10",
+    "visitor": "arizona",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "washington",
+    "home": "buffalo"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "winnipeg",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "columbus",
+    "home": "florida"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "calgary",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "montreal",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "philadelphia",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "detroit",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "san-jose",
+    "home": "seattle"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "ottawa",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-04-11",
+    "visitor": "new-jersey",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-04-12",
+    "visitor": "calgary",
+    "home": "anaheim"
+  },
+  {
+    "date": "2024-04-12",
+    "visitor": "nashville",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-04-12",
+    "visitor": "arizona",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-04-12",
+    "visitor": "carolina",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-04-12",
+    "visitor": "minnesota",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "winnipeg",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "seattle",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "vancouver",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "buffalo",
+    "home": "florida"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "anaheim",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "columbus",
+    "home": "nashville"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "ny-islanders",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "montreal",
+    "home": "ottawa"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "new-jersey",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "boston",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "minnesota",
+    "home": "san-jose"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "detroit",
+    "home": "toronto"
+  },
+  {
+    "date": "2024-04-13",
+    "visitor": "tampa",
+    "home": "washington"
+  },
+  {
+    "date": "2024-04-14",
+    "visitor": "arizona",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-04-14",
+    "visitor": "carolina",
+    "home": "chicago"
+  },
+  {
+    "date": "2024-04-14",
+    "visitor": "seattle",
+    "home": "st-louis"
+  },
+  {
+    "date": "2024-04-14",
+    "visitor": "colorado",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "montreal",
+    "home": "detroit"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "san-jose",
+    "home": "edmonton"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "minnesota",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "ny-islanders",
+    "home": "new-jersey"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "ottawa",
+    "home": "ny-rangers"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "nashville",
+    "home": "pittsburgh"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "buffalo",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-04-15",
+    "visitor": "boston",
+    "home": "washington"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "ottawa",
+    "home": "boston"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "carolina",
+    "home": "columbus"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "toronto",
+    "home": "florida"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "detroit",
+    "home": "montreal"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "washington",
+    "home": "philadelphia"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "calgary",
+    "home": "vancouver"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "chicago",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-04-16",
+    "visitor": "seattle",
+    "home": "winnipeg"
+  },
+  {
+    "date": "2024-04-17",
+    "visitor": "edmonton",
+    "home": "arizona"
+  },
+  {
+    "date": "2024-04-17",
+    "visitor": "st-louis",
+    "home": "Dallas Stars"
+  },
+  {
+    "date": "2024-04-17",
+    "visitor": "pittsburgh",
+    "home": "ny-islanders"
+  },
+  {
+    "date": "2024-04-17",
+    "visitor": "toronto",
+    "home": "tampa"
+  },
+  {
+    "date": "2024-04-18",
+    "visitor": "san-jose",
+    "home": "calgary"
+  },
+  {
+    "date": "2024-04-18",
+    "visitor": "edmonton",
+    "home": "colorado"
+  },
+  {
+    "date": "2024-04-18",
+    "visitor": "chicago",
+    "home": "los-angeles"
+  },
+  {
+    "date": "2024-04-18",
+    "visitor": "seattle",
+    "home": "minnesota"
+  },
+  {
+    "date": "2024-04-18",
+    "visitor": "anaheim",
+    "home": "vegas"
+  },
+  {
+    "date": "2024-04-18",
+    "visitor": "vancouver",
+    "home": "winnipeg"
+  }
+]
