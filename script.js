@@ -40,6 +40,10 @@ fetch('23-24-schedule.json')
       tempDate = new Date(tempDate)
       tempDate = formatDate(tempDate)
 
+      if(!schedule[tempDate]){
+        continue
+      }
+
       schedule[tempDate].games.forEach(game => {
         if (Object.values(game).includes(currentChamp)) {
           nextHome = game.home
