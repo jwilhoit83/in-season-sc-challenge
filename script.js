@@ -1,4 +1,4 @@
-const currentChamp = "dallas";
+const currentChamp = "vegas";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -90,7 +90,7 @@ const teamPoints = [
   { detroit: "0" },
   { edmonton: "0" },
   { florida: "0" },
-  { vegas: "7" },
+  { vegas: "8" },
   { "los-angeles": "0" },
   { minnesota: "0" },
   { montreal: "0" },
