@@ -84,7 +84,7 @@ const teamPoints = [
   { calgary: "0" },
   { carolina: "0" },
   { chicago: "1" },
-  { colorado: "1" },
+  { colorado: "2" },
   { columbus: "0" },
   { dallas: "3" },
   { detroit: "0" },
