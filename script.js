@@ -1,4 +1,4 @@
-const currentChamp = "florida";
+const currentChamp = "new-jersey";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -95,7 +95,7 @@ const teamPoints = [
   { minnesota: "0" },
   { montreal: "0" },
   { nashville: "3" },
-  { "new-jersey": "1" },
+  { "new-jersey": "2" },
   { "ny-islanders": "0" },
   { "ny-rangers": "1" },
   { ottawa: "0" },
