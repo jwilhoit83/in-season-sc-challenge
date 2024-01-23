@@ -79,7 +79,7 @@ fetch('23-24-schedule.json')
 const teamPoints = [
   { anaheim: "2" },
   { arizona: "6" },
-  { boston: "3" },
+  { boston: "4" },
   { buffalo: "0" },
   { calgary: "0" },
   { carolina: "0" },
