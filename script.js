@@ -1,4 +1,4 @@
-const currentChamp = "winnipeg";
+const currentChamp = "calgary";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -81,7 +81,7 @@ const teamPoints = [
   { arizona: "6" },
   { boston: "5" },
   { buffalo: "0" },
-  { calgary: "0" },
+  { calgary: "1" },
   { carolina: "3" },
   { chicago: "1" },
   { colorado: "4" },
