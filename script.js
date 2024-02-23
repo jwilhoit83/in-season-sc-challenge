@@ -81,7 +81,7 @@ const teamPoints = [
   { arizona: "6" },
   { boston: "5" },
   { buffalo: "0" },
-  { calgary: "1" },
+  { calgary: "2" },
   { carolina: "3" },
   { chicago: "1" },
   { colorado: "4" },
