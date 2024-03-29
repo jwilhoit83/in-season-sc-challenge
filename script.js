@@ -93,7 +93,7 @@ const teamPoints = [
   { vegas: "8" },
   { "los-angeles": "0" },
   { minnesota: "0" },
-  { montreal: "1" },
+  { montreal: "2" },
   { nashville: "3" },
   { "new-jersey": "2" },
   { "ny-islanders": "0" },
