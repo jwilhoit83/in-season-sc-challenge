@@ -1,4 +1,4 @@
-const currentChamp = "columbus";
+const currentChamp = "florida";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -18,7 +18,7 @@ function formatDate(date) {
 
 // schedule and upcoming game widget
 
-fetch('23-24-schedule.json')
+fetch('24-25-schedule.json')
   .then(res => res.json())
   .then(res => {
 
@@ -78,7 +78,7 @@ fetch('23-24-schedule.json')
 
 const teamPoints = [
   { anaheim: "2" },
-  { arizona: "6" },
+  { utah: "6" },
   { boston: "7" },
   { buffalo: "0" },
   { calgary: "5" },
