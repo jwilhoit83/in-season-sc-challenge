@@ -99,7 +99,7 @@ const teamPoints = [
   { "ny-rangers": "0" },
   { ottawa: "1" },
   { philadelphia: "0" },
-  { pittsburgh: "1" },
+  { pittsburgh: "2" },
   { "san-jose": "0" },
   { seattle: "0" },
   { "st-louis": "0" },
