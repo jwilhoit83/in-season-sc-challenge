@@ -1,4 +1,4 @@
-const currentChamp = "washington";
+const currentChamp = "san-jose";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -100,7 +100,7 @@ const teamPoints = [
   { ottawa: "1" },
   { philadelphia: "0" },
   { pittsburgh: "2" },
-  { "san-jose": "0" },
+  { "san-jose": "1" },
   { seattle: "0" },
   { "st-louis": "3" },
   { tampa: "1" },
