@@ -1,4 +1,4 @@
-const currentChamp = "utah";
+const currentChamp = "anaheim";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -77,7 +77,7 @@ fetch('24-25-schedule.json')
   })
 
 const teamPoints = [
-  { anaheim: "0" },
+  { anaheim: "1" },
   { boston: "0" },
   { buffalo: "0" },
   { calgary: "0" },
