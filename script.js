@@ -89,7 +89,7 @@ const teamPoints = [
   { detroit: "0" },
   { edmonton: "0" },
   { florida: "1" },
-  { vegas: "2" },
+  { vegas: "3" },
   { "los-angeles": "0" },
   { minnesota: "0" },
   { montreal: "1" },
