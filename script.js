@@ -106,7 +106,7 @@ const teamPoints = [
   { tampa: "2" },
   { toronto: "2" },
   { utah: "4" },
-  { vancouver: "2" },
+  { vancouver: "3" },
   { washington: "10" },
   { winnipeg: "3"  },
 ];
