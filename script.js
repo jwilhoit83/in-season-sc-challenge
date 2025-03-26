@@ -80,7 +80,7 @@ const teamPoints = [
   { anaheim: "4" },
   { boston: "2" },
   { buffalo: "0" },
-  { calgary: "1" },
+  { calgary: "2" },
   { carolina: "1" },
   { chicago: "1" },
   { colorado: "4" },
