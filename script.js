@@ -1,4 +1,4 @@
-const currentChamp = "pittsburgh";
+const currentChamp = "boston";
 
 let nextHome = ''
 let nextVisitor = ''
@@ -78,7 +78,7 @@ fetch('24-25-schedule.json')
 
 const teamPoints = [
   { anaheim: "4" },
-  { boston: "2" },
+  { boston: "3" },
   { buffalo: "0" },
   { calgary: "2" },
   { carolina: "1" },
