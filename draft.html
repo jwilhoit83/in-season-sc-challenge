@@ -1,74 +1,231 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <link rel="stylesheet" href="reset.css" />
+        <link rel="stylesheet" href="styles.css" />
+        <script src="DragDropTouch.js" defer></script>
+        <script src="draft-script.js" defer></script>
+        <title>RSSC Challenge Draft</title>
+    </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="stylesheet" href="reset.css">
-  <link rel="stylesheet" href="styles.css">
-  <script src="DragDropTouch.js" defer></script>
-  <script src="draft-script.js" defer></script>
-  <title>RSSC Challenge Draft</title>
-</head>
-
-<body>
-  <h1 class='title'>RSSC Challenge Draft</h1>
-  <div class="container">
-    <div class="draft-contestant-containers">
-      <div>
-        <p class='name'>Jim</p>
-        <div class='droppable'></div>
-      </div>
-      <div>
-        <p class='name'>Jerod</p>
-        <div class='droppable'></div>
-      </div>
-      <div>
-        <p class='name'>Jeff</p>
-        <div class='droppable'></div>
-      </div>
-      <div>
-        <p class='name'>Billy</p>
-        <div class='droppable'></div>
-      </div>
-    </div>
-    <div class="name">Remaining teams</div>
-    <div class="team-container droppable">
-      <img draggable='true' class='logo' src="logos/colorado.png" alt="">
-      <img draggable='true' class='logo' src="logos/chicago.png" alt="">
-      <img draggable='true' class='logo' src="logos/columbus.png" alt="">
-      <img draggable='true' class='logo' src="logos/st-louis.png" alt="">
-      <img draggable='true' class='logo' src="logos/boston.png" alt="">
-      <img draggable='true' class='logo' src="logos/montreal.png" alt="">
-      <img draggable='true' class='logo' src="logos/vancouver.png" alt="">
-      <img draggable='true' class='logo' src="logos/washington.png" alt="">
-      <img draggable='true' class='logo' src="logos/utah.png" alt="">
-      <img draggable='true' class='logo' src="logos/new-jersey.png" alt="">
-      <img draggable='true' class='logo' src="logos/anaheim.png" alt="">
-      <img draggable='true' class='logo' src="logos/calgary.png" alt="">
-      <img draggable='true' class='logo' src="logos/philadelphia.png" alt="">
-      <img draggable='true' class='logo' src="logos/vegas.png" alt="">
-      <img draggable='true' class='logo' src="logos/carolina.png" alt="">
-      <img draggable='true' class='logo' src="logos/ny-islanders.png" alt="">
-      <img draggable='true' class='logo' src="logos/winnipeg.png" alt="">
-      <img draggable='true' class='logo' src="logos/los-angeles.png" alt="">
-      <img draggable='true' class='logo' src="logos/seattle.png" alt="">
-      <img draggable='true' class='logo' src="logos/tampa.png" alt="">
-      <img draggable='true' class='logo' src="logos/toronto.png" alt="">
-      <img draggable='true' class='logo' src="logos/edmonton.png" alt="">
-      <img draggable='true' class='logo' src="logos/florida.png" alt="">
-      <img draggable='true' class='logo' src="logos/pittsburgh.png" alt="">
-      <img draggable='true' class='logo' src="logos/nashville.png" alt="">
-      <img draggable='true' class='logo' src="logos/ny-rangers.png" alt="">
-      <img draggable='true' class='logo' src="logos/detroit.png" alt="">
-      <img draggable='true' class='logo' src="logos/buffalo.png" alt="">
-      <img draggable='true' class='logo' src="logos/ottawa.png" alt="">
-      <img draggable='true' class='logo' src="logos/san-jose.png" alt="">
-      <img draggable='true' class='logo' src="logos/dallas.png" alt="">
-      <img draggable='true' class='logo' src="logos/minnesota.png" alt="">
-    </div>
-  </div>
-
-</body>
-
+    <body>
+        <h1 class="title">RSSC Challenge Draft</h1>
+        <div class="container">
+            <div class="draft-contestant-containers">
+                <div>
+                    <p class="name">Billy</p>
+                    <div class="droppable"></div>
+                </div>
+                <div>
+                    <p class="name">Jerod</p>
+                    <div class="droppable"></div>
+                </div>
+                <div>
+                    <p class="name">Jim</p>
+                    <div class="droppable"></div>
+                </div>
+                <div>
+                    <p class="name">Jeff</p>
+                    <div class="droppable"></div>
+                </div>
+            </div>
+            <div class="name">Remaining teams</div>
+            <div class="team-container droppable">
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/colorado.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/chicago.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/columbus.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/st-louis.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/boston.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/montreal.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/vancouver.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/washington.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/utah.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/new-jersey.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/anaheim.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/calgary.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/philadelphia.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/vegas.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/carolina.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/ny-islanders.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/winnipeg.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/los-angeles.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/seattle.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/tampa.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/toronto.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/edmonton.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/florida.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/pittsburgh.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/nashville.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/ny-rangers.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/detroit.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/buffalo.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/ottawa.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/san-jose.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/dallas.png"
+                    alt=""
+                />
+                <img
+                    draggable="true"
+                    class="logo"
+                    src="logos/minnesota.png"
+                    alt=""
+                />
+            </div>
+        </div>
+    </body>
 </html>
