@@ -1,8 +1,8 @@
-const currentChamp = "toronto";
+const currentChamp = "florida";
 
-let nextHome = ''
-let nextVisitor = ''
-let nextDate
+let nextHome = "";
+let nextVisitor = "";
+let nextDate;
 
 function formatDate(date) {
   const year = date.getFullYear();
@@ -18,49 +18,50 @@ function formatDate(date) {
 
 // schedule and upcoming game widget
 
-fetch('24-25-schedule.json')
-  .then(res => res.json())
-  .then(res => {
-
-    let schedule = {}
+fetch("25-26-schedule.json")
+  .then((res) => res.json())
+  .then((res) => {
+    let schedule = {};
 
     // reformatting the schedule downloaded from hockeyreference.com
 
-    res.forEach(game => {
+    res.forEach((game) => {
       if (!Object.keys(schedule).includes(game.date)) {
-        schedule[game.date] = { 'games': [] }
+        schedule[game.date] = { games: [] };
       }
-      schedule[game.date].games.push({ 'home': game.home, 'visitor': game.visitor })
-    })
+      schedule[game.date].games.push({
+        home: game.home,
+        visitor: game.visitor,
+      });
+    });
 
-    let found = 0
+    let found = 0;
 
     for (let i = 0; i < 20; i++) {
-      let tempDate = new Date().setDate(new Date().getDate() + i)
-      tempDate = new Date(tempDate)
-      tempDate = formatDate(tempDate)
+      let tempDate = new Date().setDate(new Date().getDate() + i);
+      tempDate = new Date(tempDate);
+      tempDate = formatDate(tempDate);
 
-      if(!schedule[tempDate]){
-        continue
+      if (!schedule[tempDate]) {
+        continue;
       }
 
-      schedule[tempDate].games.forEach(game => {
+      schedule[tempDate].games.forEach((game) => {
         if (Object.values(game).includes(currentChamp)) {
-          nextHome = game.home
-          nextVisitor = game.visitor
-          nextDate = tempDate
-          found = 1
+          nextHome = game.home;
+          nextVisitor = game.visitor;
+          nextDate = tempDate;
+          found = 1;
         }
-      })
+      });
 
-      if (found != 0) break
-
+      if (found != 0) break;
     }
 
     // adding date and team logos for the next game
-    
+
     document.getElementById("date").innerText = new Date(
-      nextDate
+      nextDate,
     ).toLocaleString("en-us", {
       timeZone: "UTC",
       weekday: "long",
@@ -73,42 +74,41 @@ fetch('24-25-schedule.json')
     document
       .getElementById("away")
       .setAttribute("src", `logos/${nextVisitor}.png`);
-
-  })
+  });
 
 const teamPoints = [
-  { anaheim: "4" },
-  { boston: "3" },
+  { anaheim: "0" },
+  { boston: "0" },
   { buffalo: "0" },
-  { calgary: "2" },
-  { carolina: "1" },
-  { chicago: "2" },
-  { colorado: "4" },
-  { columbus: "2" },
-  { dallas: "9" },
-  { detroit: "3" },
+  { calgary: "0" },
+  { carolina: "0" },
+  { chicago: "0" },
+  { colorado: "0" },
+  { columbus: "0" },
+  { dallas: "0" },
+  { detroit: "0" },
   { edmonton: "0" },
-  { florida: "1" },
-  { vegas: "3" },
+  { florida: "0" },
+  { vegas: "0" },
   { "los-angeles": "0" },
   { minnesota: "0" },
-  { montreal: "3" },
-  { nashville: "1" },
-  { "new-jersey": "1" },
-  { "ny-islanders": "1" },
-  { "ny-rangers": "1" },
-  { ottawa: "5" },
+  { montreal: "0" },
+  { nashville: "0" },
+  { "new-jersey": "0" },
+  { "ny-islanders": "0" },
+  { "ny-rangers": "0" },
+  { ottawa: "0" },
   { philadelphia: "0" },
-  { pittsburgh: "5" },
-  { "san-jose": "2" },
+  { pittsburgh: "0" },
+  { "san-jose": "0" },
   { seattle: "0" },
-  { "st-louis": "4" },
-  { tampa: "4" },
-  { toronto: "3" },
-  { utah: "4" },
-  { vancouver: "4" },
-  { washington: "10" },
-  { winnipeg: "3"  },
+  { "st-louis": "0" },
+  { tampa: "0" },
+  { toronto: "0" },
+  { utah: "0" },
+  { vancouver: "0" },
+  { washington: "0" },
+  { winnipeg: "0" },
 ];
 
 const james = document.querySelector(".james");
@@ -142,23 +142,24 @@ function getPoints() {
       playerArray.push(Number(team.innerText));
     });
 
-    player.querySelector("#high-points").innerText = `High ${Math.max(...playerArray)} / Total ${playerTotal}`;
+    player.querySelector("#high-points").innerText =
+      `High ${Math.max(...playerArray)} / Total ${playerTotal}`;
   });
 }
 
 // Rules Modal functionality
 
-let rulesModal = document.getElementById('rules-modal');
-let modalOpen = document.getElementById('modal-open');
-let modalClose = document.getElementById('modal-close');
+let rulesModal = document.getElementById("rules-modal");
+let modalOpen = document.getElementById("modal-open");
+let modalClose = document.getElementById("modal-close");
 
-modalOpen.addEventListener('click', () => {
+modalOpen.addEventListener("click", () => {
   rulesModal.showModal();
-})
+});
 
-modalClose.addEventListener('click', () => {
+modalClose.addEventListener("click", () => {
   rulesModal.close();
-})
+});
 
 // const teamPoints23_24 = [
 //   { anaheim: "2" },
