@@ -123,6 +123,11 @@ img {
   outline-offset: 0.25rem;
 }
 
+.challenger {
+  outline: 0.125rem solid var(--clr-primary);
+  outline-offset: 0.25rem;
+}
+
 @media (min-width: 48rem) {
   .container {
     max-width: 80%;
