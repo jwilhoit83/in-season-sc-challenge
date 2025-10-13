@@ -52,6 +52,8 @@ fetch("25-26-schedule.json")
           nextHome = game.home;
           nextVisitor = game.visitor;
           currentChallenger = currentChamp == game.home ? game.visitor : game.home;
+document.getElementById(currentChallenger).parentElement.classList.add("challenger");
+
           nextDate = tempDate;
           found = 1;
         }
@@ -131,7 +133,7 @@ teamPoints.forEach((team) => {
 
 document.getElementById(currentChamp).parentElement.classList.add("champ");
 
-document.getElementById(currentChallenger).parentElement.classList.add("challenger");
+
 
 // gets all team points for each player and displays the max value of each next to the player name
 
