@@ -1,6 +1,6 @@
 const currentChamp = "florida";
 
-let current challenger = "";
+let currentChallenger = "";
 let nextHome = "";
 let nextVisitor = "";
 let nextDate;
