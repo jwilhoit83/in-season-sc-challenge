@@ -112,7 +112,7 @@ const teamPoints = [
   { utah: "0" },
   { vancouver: "0" },
   { washington: "0" },
-  { winnipeg: "1" },
+  { winnipeg: "2" },
 ];
 
 const james = document.querySelector(".james");
