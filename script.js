@@ -51,8 +51,11 @@ fetch("25-26-schedule.json")
         if (Object.values(game).includes(currentChamp)) {
           nextHome = game.home;
           nextVisitor = game.visitor;
-          currentChallenger = currentChamp == game.home ? game.visitor : game.home;
-document.getElementById(currentChallenger).parentElement.classList.add("challenger");
+          currentChallenger =
+            currentChamp == game.home ? game.visitor : game.home;
+          document
+            .getElementById(currentChallenger)
+            .parentElement.classList.add("challenger");
 
           nextDate = tempDate;
           found = 1;
@@ -132,8 +135,6 @@ teamPoints.forEach((team) => {
 // adds a border to the active cup champ
 
 document.getElementById(currentChamp).parentElement.classList.add("champ");
-
-
 
 // gets all team points for each player and displays the max value of each next to the player name
 
