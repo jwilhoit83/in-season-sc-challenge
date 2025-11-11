@@ -104,7 +104,7 @@ const teamPoints = [
   { "new-jersey": "0" },
   { "ny-islanders": "0" },
   { "ny-rangers": "0" },
-  { ottawa: "1" },
+  { ottawa: "2" },
   { philadelphia: "3" },
   { pittsburgh: "0" },
   { "san-jose": "0" },
