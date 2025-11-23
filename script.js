@@ -1,4 +1,4 @@
-const currentChamp = "ny-islanders";
+const currentChamp = "st-louis";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -109,7 +109,7 @@ const teamPoints = [
   { pittsburgh: "0" },
   { "san-jose": "0" },
   { seattle: "2" },
-  { "st-louis": "0" },
+  { "st-louis": "1" },
   { tampa: "0" },
   { toronto: "0" },
   { utah: "0" },
