@@ -1,4 +1,4 @@
-const currentChamp = "ny-rangers";
+const currentChamp = "tampa";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -110,7 +110,7 @@ const teamPoints = [
   { "san-jose": "0" },
   { seattle: "2" },
   { "st-louis": "1" },
-  { tampa: "0" },
+  { tampa: "1" },
   { toronto: "0" },
   { utah: "0" },
   { vancouver: "0" },
