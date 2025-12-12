@@ -1,4 +1,4 @@
-const currentChamp = "florida";
+const currentChamp = "colorado";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -90,12 +90,12 @@ const teamPoints = [
   { calgary: "0" },
   { carolina: "0" },
   { chicago: "0" },
-  { colorado: "0" },
+  { colorado: "1" },
   { columbus: "0" },
   { dallas: "3" },
   { detroit: "0" },
   { edmonton: "0" },
-  { florida: "4" },
+  { florida: "5" },
   { vegas: "0" },
   { "los-angeles": "0" },
   { minnesota: "0" },
