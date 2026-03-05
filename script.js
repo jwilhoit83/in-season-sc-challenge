@@ -1,4 +1,4 @@
-const currentChamp = "seattle";
+const currentChamp = "st-louis";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -109,7 +109,7 @@ const teamPoints = [
   { pittsburgh: "0" },
   { "san-jose": "0" },
   { seattle: "3" },
-  { "st-louis": "1" },
+  { "st-louis": "2" },
   { tampa: "7" },
   { toronto: "4" },
   { utah: "5" },
