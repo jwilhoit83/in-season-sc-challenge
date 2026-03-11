@@ -1,4 +1,4 @@
-const currentChamp = "st-louis";
+const currentChamp = "ny-islanders";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -102,7 +102,7 @@ const teamPoints = [
   { montreal: "2" },
   { nashville: "0" },
   { "new-jersey": "0" },
-  { "ny-islanders": "5" },
+  { "ny-islanders": "6" },
   { "ny-rangers": "3" },
   { ottawa: "2" },
   { philadelphia: "3" },
