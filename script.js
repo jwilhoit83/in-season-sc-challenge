@@ -1,4 +1,4 @@
-const currentChamp = "new-jersey";
+const currentChamp = "washington";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -114,7 +114,7 @@ const teamPoints = [
   { toronto: "4" },
   { utah: "5" },
   { vancouver: "0" },
-  { washington: "0" },
+  { washington: "1" },
   { winnipeg: "3" },
 ];
 
