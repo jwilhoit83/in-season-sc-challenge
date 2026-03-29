@@ -1,4 +1,4 @@
-const currentChamp = "colorado";
+const currentChamp = "winnipeg";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -115,7 +115,7 @@ const teamPoints = [
   { utah: "5" },
   { vancouver: "0" },
   { washington: "1" },
-  { winnipeg: "3" },
+  { winnipeg: "4" },
 ];
 
 const james = document.querySelector(".james");
