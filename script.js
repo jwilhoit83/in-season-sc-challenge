@@ -123,7 +123,7 @@ const jerod = document.querySelector(".jerod");
 const jeff = document.querySelector(".jeff");
 const billy = document.querySelector(".billy");
 
-const players = [james, jerod, jeff, billy];
+const players = [jerod, james, jeff, billy];
 
 // iterates through team points array and displays all team points accordingly
 
@@ -167,38 +167,3 @@ modalOpen.addEventListener("click", () => {
 modalClose.addEventListener("click", () => {
   rulesModal.close();
 });
-
-// const teamPoints23_24 = [
-//   { anaheim: "2" },
-//   { utah: "6" },
-//   { boston: "7" },
-//   { buffalo: "0" },
-//   { calgary: "5" },
-//   { carolina: "7" },
-//   { chicago: "1" },
-//   { colorado: "9" },
-//   { columbus: "1" },
-//   { dallas: "3" },
-//   { detroit: "0" },
-//   { edmonton: "0" },
-//   { florida: "3" },
-//   { vegas: "8" },
-//   { "los-angeles": "0" },
-//   { minnesota: "0" },
-//   { montreal: "2" },
-//   { nashville: "3" },
-//   { "new-jersey": "2" },
-//   { "ny-islanders": "0" },
-//   { "ny-rangers": "1" },
-//   { ottawa: "0" },
-//   { philadelphia: "2" },
-//   { pittsburgh: "4" },
-//   { "san-jose": "0" },
-//   { seattle: "2" },
-//   { "st-louis": "2" },
-//   { tampa: "0" },
-//   { toronto: "0" },
-//   { vancouver: "6" },
-//   { washington: "1" },
-//   { winnipeg: "2" },
-// ];
