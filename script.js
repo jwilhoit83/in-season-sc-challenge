@@ -1,4 +1,4 @@
-const currentChamp = "vegas";
+const currentChamp = "florida";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -19,7 +19,7 @@ function formatDate(date) {
 
 // schedule and upcoming game widget
 
-fetch("25-26-schedule.json")
+fetch("26-27-schedule.json")
   .then((res) => res.json())
   .then((res) => {
     let schedule = {};
@@ -88,34 +88,34 @@ const teamPoints = [
   { boston: "0" },
   { buffalo: "0" },
   { calgary: "0" },
-  { carolina: "2" },
+  { carolina: "0" },
   { chicago: "0" },
-  { colorado: "16" },
+  { colorado: "0" },
   { columbus: "0" },
-  { dallas: "4" },
+  { dallas: "0" },
   { detroit: "0" },
   { edmonton: "0" },
-  { florida: "6" },
-  { vegas: "3" },
-  { "los-angeles": "1" },
+  { florida: "1" },
+  { vegas: "0" },
+  { "los-angeles": "0" },
   { minnesota: "0" },
-  { montreal: "2" },
+  { montreal: "0" },
   { nashville: "0" },
-  { "new-jersey": "3" },
-  { "ny-islanders": "6" },
-  { "ny-rangers": "3" },
-  { ottawa: "2" },
-  { philadelphia: "3" },
+  { "new-jersey": "0" },
+  { "ny-islanders": "0" },
+  { "ny-rangers": "0" },
+  { ottawa: "0" },
+  { philadelphia: "0" },
   { pittsburgh: "0" },
   { "san-jose": "0" },
-  { seattle: "3" },
-  { "st-louis": "5" },
-  { tampa: "7" },
-  { toronto: "4" },
-  { utah: "5" },
+  { seattle: "0" },
+  { "st-louis": "0" },
+  { tampa: "0" },
+  { toronto: "0" },
+  { utah: "0" },
   { vancouver: "0" },
-  { washington: "1" },
-  { winnipeg: "5" },
+  { washington: "0" },
+  { winnipeg: "0" },
 ];
 
 const james = document.querySelector(".james");
