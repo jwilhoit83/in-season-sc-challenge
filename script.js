@@ -1,4 +1,4 @@
-const currentChamp = "san-jose";
+const currentChamp = "calgary";
 
 let currentChallenger = "";
 let nextHome = "";
@@ -87,7 +87,7 @@ const teamPoints = [
   { anaheim: "0" },
   { boston: "0" },
   { buffalo: "1" },
-  { calgary: "0" },
+  { calgary: "1" },
   { carolina: "0" },
   { chicago: "2" },
   { colorado: "3"   },
